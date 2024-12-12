@@ -36,4 +36,7 @@ g1 = base.new |>
       facet_wrap(~UF)
 g1  
 
-Comentario: observe que os casos em São Paulo são mais frequentes do que no Rio de Janeiro. De fato, a população em SP é maior, o ideal seria refazer esse grafico plotando a quantidade de casos corrigido pelo tamanho populacional. Entretando, parece não haver diferenças, dentro de um mesmo estado, entre os sexos. Tanto no Rio quanto em SP o valor mediano de casos no ano de 2019 é bastante similar. Observe que em algumas semanas há um pico de casos que, neste gráfico, são registradas como outliers.
+Comentario: observe que os casos em São Paulo são mais frequentes do que no Rio de Janeiro. De fato, a população em SP é maior, 
+o ideal seria refazer esse grafico plotando a quantidade de casos corrigido pelo tamanho populacional. Entretando, parece não haver 
+diferenças, dentro de um mesmo estado, entre os sexos. Tanto no Rio quanto em SP o valor mediano de casos no ano de 2019 é bastante 
+similar. Observe que em algumas semanas há um pico de casos que, neste gráfico, são registradas como outliers.
