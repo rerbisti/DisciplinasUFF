@@ -1,0 +1,2815 @@
+year,type,sex,numbers,icd_codes,cancer_category
+2016,regs,AllSex,24218,"C00-C96, D45-D47",All cancers
+2015,regs,AllSex,23380,"C00-C96, D45-D47",All cancers
+2014,regs,AllSex,23227,"C00-C96, D45-D47",All cancers
+2013,regs,AllSex,22395,"C00-C96, D45-D47",All cancers
+2012,regs,AllSex,22062,"C00-C96, D45-D47",All cancers
+2010,regs,AllSex,21460,"C00-C96, D45-D47",All cancers
+2011,regs,AllSex,21259,"C00-C96, D45-D47",All cancers
+2009,regs,AllSex,21041,"C00-C96, D45-D47",All cancers
+2008,regs,AllSex,20477,"C00-C96, D45-D47",All cancers
+2007,regs,AllSex,19899,"C00-C96, D45-D47",All cancers
+2006,regs,AllSex,18974,"C00-C96, D45-D47",All cancers
+2004,regs,AllSex,18964,"C00-C96, D45-D47",All cancers
+2003,regs,AllSex,18660,"C00-C96, D45-D47",All cancers
+2005,regs,AllSex,18639,"C00-C96, D45-D47",All cancers
+2001,regs,AllSex,18004,"C00-C96, D45-D47",All cancers
+2002,regs,AllSex,17975,"C00-C96, D45-D47",All cancers
+2000,regs,AllSex,17896,"C00-C96, D45-D47",All cancers
+1999,regs,AllSex,17070,"C00-C96, D45-D47",All cancers
+1998,regs,AllSex,16663,"C00-C96, D45-D47",All cancers
+1996,regs,AllSex,16220,"C00-C96, D45-D47",All cancers
+1997,regs,AllSex,16136,"C00-C96, D45-D47",All cancers
+2016,regs,Male,12558,"C00-C96, D45-D47",All cancers
+2014,regs,Male,12073,"C00-C96, D45-D47",All cancers
+2015,regs,Male,12072,"C00-C96, D45-D47",All cancers
+2016,regs,Female,11660,"C00-C96, D45-D47",All cancers
+2013,regs,Male,11633,"C00-C96, D45-D47",All cancers
+2012,regs,Male,11506,"C00-C96, D45-D47",All cancers
+2015,regs,Female,11308,"C00-C96, D45-D47",All cancers
+2009,regs,Male,11247,"C00-C96, D45-D47",All cancers
+2010,regs,Male,11197,"C00-C96, D45-D47",All cancers
+2011,regs,Male,11184,"C00-C96, D45-D47",All cancers
+2014,regs,Female,11154,"C00-C96, D45-D47",All cancers
+2013,regs,Female,10762,"C00-C96, D45-D47",All cancers
+2008,regs,Male,10596,"C00-C96, D45-D47",All cancers
+2012,regs,Female,10556,"C00-C96, D45-D47",All cancers
+2007,regs,Male,10522,"C00-C96, D45-D47",All cancers
+2010,regs,Female,10263,"C00-C96, D45-D47",All cancers
+2011,regs,Female,10075,"C00-C96, D45-D47",All cancers
+2004,regs,Male,10015,"C00-C96, D45-D47",All cancers
+2006,regs,Male,9908,"C00-C96, D45-D47",All cancers
+2003,regs,Male,9890,"C00-C96, D45-D47",All cancers
+2008,regs,Female,9881,"C00-C96, D45-D47",All cancers
+2009,regs,Female,9794,"C00-C96, D45-D47",All cancers
+2005,regs,Male,9686,"C00-C96, D45-D47",All cancers
+2001,regs,Male,9620,"C00-C96, D45-D47",All cancers
+2015,deaths,AllSex,9617,"C00-C96, D45-D47",All cancers
+2000,regs,Male,9579,"C00-C96, D45-D47",All cancers
+2016,deaths,AllSex,9517,"C00-C96, D45-D47",All cancers
+2002,regs,Male,9416,"C00-C96, D45-D47",All cancers
+2007,regs,Female,9377,"C00-C96, D45-D47",All cancers
+2014,deaths,AllSex,9255,"C00-C96, D45-D47",All cancers
+1999,regs,Male,9091,"C00-C96, D45-D47",All cancers
+2006,regs,Female,9066,"C00-C96, D45-D47",All cancers
+2013,deaths,AllSex,9063,"C00-C96, D45-D47",All cancers
+2005,regs,Female,8953,"C00-C96, D45-D47",All cancers
+2004,regs,Female,8949,"C00-C96, D45-D47",All cancers
+2012,deaths,AllSex,8903,"C00-C96, D45-D47",All cancers
+2011,deaths,AllSex,8891,"C00-C96, D45-D47",All cancers
+1998,regs,Male,8876,"C00-C96, D45-D47",All cancers
+2003,regs,Female,8770,"C00-C96, D45-D47",All cancers
+1996,regs,Male,8630,"C00-C96, D45-D47",All cancers
+2010,deaths,AllSex,8593,"C00-C96, D45-D47",All cancers
+2008,deaths,AllSex,8566,"C00-C96, D45-D47",All cancers
+2002,regs,Female,8559,"C00-C96, D45-D47",All cancers
+2007,deaths,AllSex,8523,"C00-C96, D45-D47",All cancers
+1997,regs,Male,8466,"C00-C96, D45-D47",All cancers
+2009,deaths,AllSex,8436,"C00-C96, D45-D47",All cancers
+2001,regs,Female,8384,"C00-C96, D45-D47",All cancers
+2000,regs,Female,8317,"C00-C96, D45-D47",All cancers
+2004,deaths,AllSex,8148,"C00-C96, D45-D47",All cancers
+2006,deaths,AllSex,8096,"C00-C96, D45-D47",All cancers
+2003,deaths,AllSex,8028,"C00-C96, D45-D47",All cancers
+1999,regs,Female,7979,"C00-C96, D45-D47",All cancers
+2005,deaths,AllSex,7970,"C00-C96, D45-D47",All cancers
+2001,deaths,AllSex,7810,"C00-C96, D45-D47",All cancers
+2002,deaths,AllSex,7800,"C00-C96, D45-D47",All cancers
+1998,regs,Female,7787,"C00-C96, D45-D47",All cancers
+1999,deaths,AllSex,7675,"C00-C96, D45-D47",All cancers
+1997,regs,Female,7670,"C00-C96, D45-D47",All cancers
+2000,deaths,AllSex,7620,"C00-C96, D45-D47",All cancers
+1996,regs,Female,7590,"C00-C96, D45-D47",All cancers
+1998,deaths,AllSex,7588,"C00-C96, D45-D47",All cancers
+1996,deaths,AllSex,7453,"C00-C96, D45-D47",All cancers
+1997,deaths,AllSex,7282,"C00-C96, D45-D47",All cancers
+2015,deaths,Male,5113,"C00-C96, D45-D47",All cancers
+2016,deaths,Male,5022,"C00-C96, D45-D47",All cancers
+2014,deaths,Male,4901,"C00-C96, D45-D47",All cancers
+2013,deaths,Male,4821,"C00-C96, D45-D47",All cancers
+2012,deaths,Male,4733,"C00-C96, D45-D47",All cancers
+2011,deaths,Male,4650,"C00-C96, D45-D47",All cancers
+2008,deaths,Male,4561,"C00-C96, D45-D47",All cancers
+2007,deaths,Male,4540,"C00-C96, D45-D47",All cancers
+2010,deaths,Male,4511,"C00-C96, D45-D47",All cancers
+2015,deaths,Female,4504,"C00-C96, D45-D47",All cancers
+2016,deaths,Female,4495,"C00-C96, D45-D47",All cancers
+2009,deaths,Male,4402,"C00-C96, D45-D47",All cancers
+2014,deaths,Female,4354,"C00-C96, D45-D47",All cancers
+2003,deaths,Male,4294,"C00-C96, D45-D47",All cancers
+2004,deaths,Male,4247,"C00-C96, D45-D47",All cancers
+2013,deaths,Female,4242,"C00-C96, D45-D47",All cancers
+2011,deaths,Female,4241,"C00-C96, D45-D47",All cancers
+2005,deaths,Male,4184,"C00-C96, D45-D47",All cancers
+2012,deaths,Female,4170,"C00-C96, D45-D47",All cancers
+2001,deaths,Male,4165,"C00-C96, D45-D47",All cancers
+2006,deaths,Male,4139,"C00-C96, D45-D47",All cancers
+2002,deaths,Male,4122,"C00-C96, D45-D47",All cancers
+2000,deaths,Male,4120,"C00-C96, D45-D47",All cancers
+2010,deaths,Female,4082,"C00-C96, D45-D47",All cancers
+1999,deaths,Male,4064,"C00-C96, D45-D47",All cancers
+2009,deaths,Female,4034,"C00-C96, D45-D47",All cancers
+2008,deaths,Female,4005,"C00-C96, D45-D47",All cancers
+2007,deaths,Female,3983,"C00-C96, D45-D47",All cancers
+2006,deaths,Female,3957,"C00-C96, D45-D47",All cancers
+1998,deaths,Male,3915,"C00-C96, D45-D47",All cancers
+2004,deaths,Female,3901,"C00-C96, D45-D47",All cancers
+1996,deaths,Male,3869,"C00-C96, D45-D47",All cancers
+1997,deaths,Male,3833,"C00-C96, D45-D47",All cancers
+2005,deaths,Female,3786,"C00-C96, D45-D47",All cancers
+2003,deaths,Female,3734,"C00-C96, D45-D47",All cancers
+2002,deaths,Female,3678,"C00-C96, D45-D47",All cancers
+1998,deaths,Female,3673,"C00-C96, D45-D47",All cancers
+2001,deaths,Female,3645,"C00-C96, D45-D47",All cancers
+1999,deaths,Female,3611,"C00-C96, D45-D47",All cancers
+1996,deaths,Female,3584,"C00-C96, D45-D47",All cancers
+2000,deaths,Female,3500,"C00-C96, D45-D47",All cancers
+1997,deaths,Female,3449,"C00-C96, D45-D47",All cancers
+2009,regs,AllSex,3407,C61,Prostate
+2009,regs,Male,3407,C61,Prostate
+2016,regs,AllSex,3399,C61,Prostate
+2016,regs,Male,3399,C61,Prostate
+2016,regs,AllSex,3330,C50,Breast
+2015,regs,AllSex,3319,C50,Breast
+2016,regs,Female,3314,C50,Breast
+2014,regs,AllSex,3300,C50,Breast
+2014,regs,AllSex,3298,C18-C21,Colorectum and anus
+2015,regs,Female,3296,C50,Breast
+2014,regs,Female,3280,C50,Breast
+2016,regs,AllSex,3221,C18-C21,Colorectum and anus
+2012,regs,AllSex,3181,C61,Prostate
+2012,regs,Male,3181,C61,Prostate
+2013,regs,AllSex,3180,C61,Prostate
+2013,regs,Male,3180,C61,Prostate
+2014,regs,AllSex,3174,C61,Prostate
+2014,regs,Male,3174,C61,Prostate
+2015,regs,AllSex,3157,C18-C21,Colorectum and anus
+2015,regs,AllSex,3104,C61,Prostate
+2015,regs,Male,3104,C61,Prostate
+2000,regs,AllSex,3099,C61,Prostate
+2000,regs,Male,3099,C61,Prostate
+2013,regs,AllSex,3090,C18-C21,Colorectum and anus
+2011,regs,AllSex,3082,C61,Prostate
+2011,regs,Male,3082,C61,Prostate
+2001,regs,AllSex,3076,C61,Prostate
+2001,regs,Male,3076,C61,Prostate
+2012,regs,AllSex,3064,C50,Breast
+2013,regs,AllSex,3052,C50,Breast
+2011,regs,AllSex,3047,C18-C21,Colorectum and anus
+2010,regs,AllSex,3035,C61,Prostate
+2010,regs,Male,3035,C61,Prostate
+2012,regs,Female,3035,C50,Breast
+2012,regs,AllSex,3026,C18-C21,Colorectum and anus
+2013,regs,Female,3025,C50,Breast
+2010,regs,AllSex,3002,C18-C21,Colorectum and anus
+2007,regs,AllSex,2988,C61,Prostate
+2007,regs,Male,2988,C61,Prostate
+2008,regs,AllSex,2980,C61,Prostate
+2008,regs,Male,2980,C61,Prostate
+2011,regs,AllSex,2899,C50,Breast
+2011,regs,Female,2872,C50,Breast
+2009,regs,AllSex,2850,C18-C21,Colorectum and anus
+2007,regs,AllSex,2824,C18-C21,Colorectum and anus
+2006,regs,AllSex,2823,C18-C21,Colorectum and anus
+2008,regs,AllSex,2821,C18-C21,Colorectum and anus
+2010,regs,AllSex,2821,C50,Breast
+2010,regs,Female,2800,C50,Breast
+2009,regs,AllSex,2796,C50,Breast
+2009,regs,Female,2774,C50,Breast
+2004,regs,AllSex,2759,C18-C21,Colorectum and anus
+2004,regs,AllSex,2758,C61,Prostate
+2004,regs,Male,2758,C61,Prostate
+2003,regs,AllSex,2755,C61,Prostate
+2003,regs,Male,2755,C61,Prostate
+2008,regs,AllSex,2748,C50,Breast
+2005,regs,AllSex,2726,C18-C21,Colorectum and anus
+2008,regs,Female,2726,C50,Breast
+2003,regs,AllSex,2691,C18-C21,Colorectum and anus
+2002,regs,AllSex,2677,C61,Prostate
+2002,regs,Male,2677,C61,Prostate
+2001,regs,AllSex,2652,C18-C21,Colorectum and anus
+1999,regs,AllSex,2626,C61,Prostate
+1999,regs,Male,2626,C61,Prostate
+2002,regs,AllSex,2618,C18-C21,Colorectum and anus
+2006,regs,AllSex,2589,C50,Breast
+2007,regs,AllSex,2588,C50,Breast
+2007,regs,Female,2578,C50,Breast
+1999,regs,AllSex,2574,C18-C21,Colorectum and anus
+2006,regs,Female,2573,C50,Breast
+2016,regs,AllSex,2571,C43,Melanoma
+2005,regs,AllSex,2563,C61,Prostate
+2005,regs,Male,2563,C61,Prostate
+2000,regs,AllSex,2558,C18-C21,Colorectum and anus
+2006,regs,AllSex,2544,C61,Prostate
+2006,regs,Male,2544,C61,Prostate
+2005,regs,AllSex,2511,C50,Breast
+2005,regs,Female,2490,C50,Breast
+1996,regs,AllSex,2473,C61,Prostate
+1996,regs,Male,2473,C61,Prostate
+1996,regs,AllSex,2450,C18-C21,Colorectum and anus
+1998,regs,AllSex,2440,C18-C21,Colorectum and anus
+1998,regs,AllSex,2433,C61,Prostate
+1998,regs,Male,2433,C61,Prostate
+2015,regs,AllSex,2427,C43,Melanoma
+2002,regs,AllSex,2388,C50,Breast
+1997,regs,AllSex,2378,C61,Prostate
+1997,regs,Male,2378,C61,Prostate
+2004,regs,AllSex,2373,C50,Breast
+2002,regs,Female,2372,C50,Breast
+2013,regs,AllSex,2366,C43,Melanoma
+2004,regs,Female,2351,C50,Breast
+2010,regs,AllSex,2348,C43,Melanoma
+2003,regs,AllSex,2347,C50,Breast
+1997,regs,AllSex,2338,C18-C21,Colorectum and anus
+2000,regs,AllSex,2334,C50,Breast
+2003,regs,Female,2334,C50,Breast
+2012,regs,AllSex,2332,C43,Melanoma
+2001,regs,AllSex,2331,C50,Breast
+2000,regs,Female,2322,C50,Breast
+2001,regs,Female,2314,C50,Breast
+2014,regs,AllSex,2298,C43,Melanoma
+1999,regs,AllSex,2277,C50,Breast
+2014,regs,AllSex,2276,C33-C34,Lung & Trachea
+2016,regs,AllSex,2276,C33-C34,Lung & Trachea
+1999,regs,Female,2259,C50,Breast
+2008,regs,AllSex,2258,C43,Melanoma
+2015,regs,AllSex,2253,C33-C34,Lung & Trachea
+2009,regs,AllSex,2212,C43,Melanoma
+2011,regs,AllSex,2210,C43,Melanoma
+2007,regs,AllSex,2181,C43,Melanoma
+1998,regs,AllSex,2103,C50,Breast
+1998,regs,Female,2091,C50,Breast
+2013,regs,AllSex,2079,C33-C34,Lung & Trachea
+2012,regs,AllSex,2070,C33-C34,Lung & Trachea
+2005,regs,AllSex,2048,C43,Melanoma
+2011,regs,AllSex,2047,C33-C34,Lung & Trachea
+2009,regs,AllSex,2031,C33-C34,Lung & Trachea
+1997,regs,AllSex,2022,C50,Breast
+2006,regs,AllSex,2013,C43,Melanoma
+1997,regs,Female,2011,C50,Breast
+2010,regs,AllSex,1963,C33-C34,Lung & Trachea
+1996,regs,AllSex,1948,C50,Breast
+1996,regs,Female,1936,C50,Breast
+2008,regs,AllSex,1898,C33-C34,Lung & Trachea
+2004,regs,AllSex,1895,C43,Melanoma
+2003,regs,AllSex,1850,C43,Melanoma
+2004,regs,AllSex,1845,C33-C34,Lung & Trachea
+2007,regs,AllSex,1842,C33-C34,Lung & Trachea
+2002,regs,AllSex,1832,C43,Melanoma
+2003,regs,AllSex,1825,C33-C34,Lung & Trachea
+2015,deaths,AllSex,1805,C33-C34,Lung & Trachea
+2016,deaths,AllSex,1758,C33-C34,Lung & Trachea
+2001,regs,AllSex,1752,C43,Melanoma
+2014,regs,Male,1731,C18-C21,Colorectum and anus
+2006,regs,AllSex,1724,C33-C34,Lung & Trachea
+2000,regs,AllSex,1711,C43,Melanoma
+2005,regs,AllSex,1687,C33-C34,Lung & Trachea
+2011,deaths,AllSex,1682,C33-C34,Lung & Trachea
+2014,deaths,AllSex,1680,C33-C34,Lung & Trachea
+2016,regs,Male,1659,C18-C21,Colorectum and anus
+2000,regs,AllSex,1657,C33-C34,Lung & Trachea
+2013,deaths,AllSex,1656,C33-C34,Lung & Trachea
+2010,deaths,AllSex,1650,C33-C34,Lung & Trachea
+2011,regs,Male,1640,C18-C21,Colorectum and anus
+2015,regs,Male,1640,C18-C21,Colorectum and anus
+2002,regs,AllSex,1634,C33-C34,Lung & Trachea
+2008,deaths,AllSex,1633,C33-C34,Lung & Trachea
+2013,regs,Male,1632,C18-C21,Colorectum and anus
+2012,deaths,AllSex,1628,C33-C34,Lung & Trachea
+1996,regs,AllSex,1599,C33-C34,Lung & Trachea
+2009,deaths,AllSex,1594,C33-C34,Lung & Trachea
+1999,regs,AllSex,1588,C33-C34,Lung & Trachea
+2012,regs,Male,1576,C18-C21,Colorectum and anus
+1998,regs,AllSex,1573,C43,Melanoma
+1999,regs,AllSex,1570,C43,Melanoma
+2014,regs,Female,1567,C18-C21,Colorectum and anus
+2016,regs,Female,1562,C18-C21,Colorectum and anus
+2004,deaths,AllSex,1555,C33-C34,Lung & Trachea
+2001,regs,AllSex,1532,C33-C34,Lung & Trachea
+2007,deaths,AllSex,1528,C33-C34,Lung & Trachea
+1997,regs,AllSex,1518,C33-C34,Lung & Trachea
+2015,regs,Female,1517,C18-C21,Colorectum and anus
+1996,regs,AllSex,1515,C43,Melanoma
+2010,regs,Male,1514,C18-C21,Colorectum and anus
+1998,regs,AllSex,1499,C33-C34,Lung & Trachea
+1997,regs,AllSex,1495,C43,Melanoma
+2010,regs,Female,1488,C18-C21,Colorectum and anus
+2006,regs,Male,1487,C18-C21,Colorectum and anus
+2009,regs,Male,1473,C18-C21,Colorectum and anus
+2006,deaths,AllSex,1472,C33-C34,Lung & Trachea
+2002,deaths,AllSex,1471,C33-C34,Lung & Trachea
+2003,deaths,AllSex,1466,C33-C34,Lung & Trachea
+2007,regs,Male,1460,C18-C21,Colorectum and anus
+2013,regs,Female,1458,C18-C21,Colorectum and anus
+2005,deaths,AllSex,1451,C33-C34,Lung & Trachea
+2012,regs,Female,1450,C18-C21,Colorectum and anus
+2008,regs,Male,1448,C18-C21,Colorectum and anus
+1999,deaths,AllSex,1443,C33-C34,Lung & Trachea
+2001,deaths,AllSex,1435,C33-C34,Lung & Trachea
+2016,regs,Male,1431,C43,Melanoma
+1997,deaths,AllSex,1412,C33-C34,Lung & Trachea
+2011,regs,Female,1407,C18-C21,Colorectum and anus
+2000,deaths,AllSex,1406,C33-C34,Lung & Trachea
+1996,deaths,AllSex,1400,C33-C34,Lung & Trachea
+2005,regs,Female,1393,C18-C21,Colorectum and anus
+2004,regs,Male,1382,C18-C21,Colorectum and anus
+1998,deaths,AllSex,1382,C33-C34,Lung & Trachea
+2004,regs,Female,1377,C18-C21,Colorectum and anus
+2009,regs,Female,1377,C18-C21,Colorectum and anus
+2008,regs,Female,1373,C18-C21,Colorectum and anus
+2007,regs,Female,1364,C18-C21,Colorectum and anus
+2015,regs,Male,1361,C43,Melanoma
+2003,regs,Male,1359,C18-C21,Colorectum and anus
+2002,regs,Male,1346,C18-C21,Colorectum and anus
+2001,regs,Male,1336,C18-C21,Colorectum and anus
+2006,regs,Female,1336,C18-C21,Colorectum and anus
+2005,regs,Male,1333,C18-C21,Colorectum and anus
+2003,regs,Female,1332,C18-C21,Colorectum and anus
+1999,regs,Male,1322,C18-C21,Colorectum and anus
+2001,regs,Female,1316,C18-C21,Colorectum and anus
+2000,regs,Female,1298,C18-C21,Colorectum and anus
+2016,deaths,AllSex,1292,C18-C21,Colorectum and anus
+2012,deaths,AllSex,1282,C18-C21,Colorectum and anus
+2008,deaths,AllSex,1280,C18-C21,Colorectum and anus
+2014,deaths,AllSex,1273,C18-C21,Colorectum and anus
+2002,regs,Female,1272,C18-C21,Colorectum and anus
+2015,deaths,AllSex,1267,C18-C21,Colorectum and anus
+2000,regs,Male,1260,C18-C21,Colorectum and anus
+2014,regs,Male,1255,C43,Melanoma
+1996,regs,Male,1254,C18-C21,Colorectum and anus
+2007,deaths,AllSex,1253,C18-C21,Colorectum and anus
+1999,regs,Female,1252,C18-C21,Colorectum and anus
+2013,deaths,AllSex,1252,C18-C21,Colorectum and anus
+2009,deaths,AllSex,1244,C18-C21,Colorectum and anus
+2010,regs,Male,1243,C43,Melanoma
+1998,regs,Male,1241,C18-C21,Colorectum and anus
+2012,regs,Male,1229,C43,Melanoma
+2013,regs,Male,1223,C43,Melanoma
+2005,deaths,AllSex,1221,C18-C21,Colorectum and anus
+2010,deaths,AllSex,1208,C18-C21,Colorectum and anus
+2011,regs,Male,1204,C43,Melanoma
+1998,regs,Female,1199,C18-C21,Colorectum and anus
+2009,regs,Male,1197,C43,Melanoma
+1996,regs,Female,1196,C18-C21,Colorectum and anus
+2014,regs,Male,1196,C33-C34,Lung & Trachea
+2006,deaths,AllSex,1193,C18-C21,Colorectum and anus
+2011,deaths,AllSex,1191,C18-C21,Colorectum and anus
+1997,regs,Male,1190,C18-C21,Colorectum and anus
+2008,regs,Male,1185,C43,Melanoma
+2001,deaths,AllSex,1177,C18-C21,Colorectum and anus
+2004,deaths,AllSex,1174,C18-C21,Colorectum and anus
+2016,regs,Male,1162,C33-C34,Lung & Trachea
+1997,regs,Female,1148,C18-C21,Colorectum and anus
+2013,regs,Female,1143,C43,Melanoma
+2016,regs,Female,1140,C43,Melanoma
+1999,deaths,AllSex,1136,C18-C21,Colorectum and anus
+2002,deaths,AllSex,1135,C18-C21,Colorectum and anus
+2000,deaths,AllSex,1134,C18-C21,Colorectum and anus
+1996,deaths,AllSex,1133,C18-C21,Colorectum and anus
+2015,regs,Male,1129,C33-C34,Lung & Trachea
+2007,regs,Male,1126,C43,Melanoma
+1998,deaths,AllSex,1125,C18-C21,Colorectum and anus
+2015,regs,Female,1124,C33-C34,Lung & Trachea
+2005,regs,Male,1120,C43,Melanoma
+2003,deaths,AllSex,1116,C18-C21,Colorectum and anus
+2009,regs,Male,1114,C33-C34,Lung & Trachea
+2016,regs,Female,1114,C33-C34,Lung & Trachea
+2010,regs,Female,1105,C43,Melanoma
+2012,regs,Female,1103,C43,Melanoma
+1997,deaths,AllSex,1089,C18-C21,Colorectum and anus
+2004,regs,Male,1084,C33-C34,Lung & Trachea
+2012,regs,Male,1083,C33-C34,Lung & Trachea
+2014,regs,Female,1080,C33-C34,Lung & Trachea
+2008,regs,Female,1073,C43,Melanoma
+2006,regs,Male,1069,C43,Melanoma
+2015,regs,Female,1066,C43,Melanoma
+2011,regs,Male,1062,C33-C34,Lung & Trachea
+2007,regs,Female,1055,C43,Melanoma
+2010,regs,Male,1053,C33-C34,Lung & Trachea
+2013,regs,Male,1050,C33-C34,Lung & Trachea
+2003,regs,Male,1043,C33-C34,Lung & Trachea
+2014,regs,Female,1043,C43,Melanoma
+2007,regs,Male,1042,C33-C34,Lung & Trachea
+2013,regs,Female,1029,C33-C34,Lung & Trachea
+2009,regs,Female,1015,C43,Melanoma
+2008,regs,Male,1006,C33-C34,Lung & Trachea
+2011,regs,Female,1006,C43,Melanoma
+1996,regs,Male,995,C33-C34,Lung & Trachea
+2012,regs,Female,987,C33-C34,Lung & Trachea
+2011,regs,Female,985,C33-C34,Lung & Trachea
+1999,regs,Male,981,C33-C34,Lung & Trachea
+2000,regs,Male,978,C33-C34,Lung & Trachea
+2005,regs,Male,965,C33-C34,Lung & Trachea
+2003,regs,Male,957,C43,Melanoma
+1998,regs,Male,956,C33-C34,Lung & Trachea
+2015,deaths,Male,953,C33-C34,Lung & Trachea
+2004,regs,Male,950,C43,Melanoma
+2004,regs,Female,945,C43,Melanoma
+2006,regs,Female,944,C43,Melanoma
+2006,regs,Male,942,C33-C34,Lung & Trachea
+2002,regs,Male,941,C33-C34,Lung & Trachea
+2016,deaths,Male,939,C33-C34,Lung & Trachea
+2002,regs,Male,931,C43,Melanoma
+2016,regs,AllSex,929,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,deaths,Male,929,C33-C34,Lung & Trachea
+2005,regs,Female,928,C43,Melanoma
+1997,regs,Male,922,C33-C34,Lung & Trachea
+2009,regs,Female,917,C33-C34,Lung & Trachea
+2010,regs,Female,910,C33-C34,Lung & Trachea
+2011,deaths,Male,909,C33-C34,Lung & Trachea
+2002,regs,Female,901,C43,Melanoma
+1996,deaths,Male,900,C33-C34,Lung & Trachea
+2003,regs,Female,893,C43,Melanoma
+2010,deaths,Male,893,C33-C34,Lung & Trachea
+2008,regs,Female,892,C33-C34,Lung & Trachea
+2012,deaths,Male,891,C33-C34,Lung & Trachea
+2008,deaths,Male,889,C33-C34,Lung & Trachea
+2014,deaths,Male,889,C33-C34,Lung & Trachea
+2001,regs,Female,887,C43,Melanoma
+2001,regs,Male,886,C33-C34,Lung & Trachea
+1997,deaths,Male,882,C33-C34,Lung & Trachea
+2009,deaths,Male,877,C33-C34,Lung & Trachea
+1999,deaths,Male,874,C33-C34,Lung & Trachea
+2001,regs,Male,865,C43,Melanoma
+2002,deaths,Male,865,C33-C34,Lung & Trachea
+2005,deaths,Male,864,C33-C34,Lung & Trachea
+2007,deaths,Male,864,C33-C34,Lung & Trachea
+2013,deaths,Male,864,C33-C34,Lung & Trachea
+2000,deaths,Male,860,C33-C34,Lung & Trachea
+2000,regs,Female,857,C43,Melanoma
+1998,deaths,Male,856,C33-C34,Lung & Trachea
+2000,regs,Male,854,C43,Melanoma
+2015,deaths,Female,852,C33-C34,Lung & Trachea
+2015,regs,AllSex,851,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,deaths,Male,849,C33-C34,Lung & Trachea
+2001,deaths,Male,842,C33-C34,Lung & Trachea
+1999,regs,Male,826,C43,Melanoma
+1998,regs,Male,821,C43,Melanoma
+2016,deaths,Female,819,C33-C34,Lung & Trachea
+2006,deaths,Male,807,C33-C34,Lung & Trachea
+2007,regs,Female,800,C33-C34,Lung & Trachea
+2013,deaths,Female,792,C33-C34,Lung & Trachea
+2014,deaths,Female,791,C33-C34,Lung & Trachea
+2010,regs,AllSex,788,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,regs,AllSex,786,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,regs,Female,782,C33-C34,Lung & Trachea
+2006,regs,Female,782,C33-C34,Lung & Trachea
+2014,regs,AllSex,779,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,regs,Female,773,C43,Melanoma
+2008,regs,AllSex,773,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,Female,773,C33-C34,Lung & Trachea
+2009,regs,AllSex,764,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,regs,Female,761,C33-C34,Lung & Trachea
+2010,deaths,Female,757,C33-C34,Lung & Trachea
+2012,regs,AllSex,753,"C82-C86, C96",Non-Hodgkin lymphoma
+1998,regs,Female,752,C43,Melanoma
+1997,regs,Male,751,C43,Melanoma
+1996,deaths,AllSex,747,C50,Breast
+1997,regs,Female,744,C43,Melanoma
+1999,regs,Female,744,C43,Melanoma
+2008,deaths,Female,744,C33-C34,Lung & Trachea
+1996,regs,Male,742,C43,Melanoma
+2003,regs,AllSex,738,C91-C95,Leukaemia
+2012,deaths,Female,737,C33-C34,Lung & Trachea
+2011,regs,AllSex,727,"C82-C86, C96",Non-Hodgkin lymphoma
+2005,regs,Female,722,C33-C34,Lung & Trachea
+1999,deaths,AllSex,722,C50,Breast
+2009,deaths,Female,717,C33-C34,Lung & Trachea
+2002,regs,AllSex,714,C91-C95,Leukaemia
+2015,regs,AllSex,710,C91-C95,Leukaemia
+2007,regs,AllSex,706,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,deaths,Female,704,C50,Breast
+2006,regs,AllSex,698,"C82-C86, C96",Non-Hodgkin lymphoma
+1998,deaths,AllSex,696,C50,Breast
+2002,regs,Female,693,C33-C34,Lung & Trachea
+2008,deaths,Male,693,C18-C21,Colorectum and anus
+2016,regs,AllSex,689,C91-C95,Leukaemia
+2015,deaths,Male,689,C18-C21,Colorectum and anus
+2014,regs,AllSex,685,"C64-C66, C68",Kidney and other urinary
+2000,regs,Female,679,C33-C34,Lung & Trachea
+2015,deaths,AllSex,674,C50,Breast
+2016,deaths,AllSex,674,C50,Breast
+1997,deaths,AllSex,670,C50,Breast
+2008,deaths,AllSex,670,C61,Prostate
+2008,deaths,Male,670,C61,Prostate
+2005,regs,AllSex,669,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,regs,AllSex,669,C91-C95,Leukaemia
+1999,deaths,Female,669,C50,Breast
+2015,deaths,Female,669,C50,Breast
+2016,deaths,Female,668,C50,Breast
+2006,deaths,Female,665,C33-C34,Lung & Trachea
+2009,deaths,AllSex,665,C50,Breast
+2007,deaths,Female,664,C33-C34,Lung & Trachea
+2012,deaths,Male,663,C18-C21,Colorectum and anus
+2013,deaths,Male,659,C18-C21,Colorectum and anus
+2014,regs,AllSex,658,C91-C95,Leukaemia
+2009,deaths,Female,658,C50,Breast
+1998,deaths,Female,656,C50,Breast
+2016,deaths,Male,655,C18-C21,Colorectum and anus
+2004,regs,AllSex,653,C91-C95,Leukaemia
+2015,regs,AllSex,653,"C64-C66, C68",Kidney and other urinary
+2003,deaths,AllSex,652,C50,Breast
+2005,deaths,AllSex,652,C50,Breast
+2014,deaths,AllSex,652,C61,Prostate
+2014,deaths,Male,652,C61,Prostate
+2016,regs,AllSex,648,"C64-C66, C68",Kidney and other urinary
+2007,deaths,AllSex,648,C50,Breast
+2014,deaths,Male,648,C18-C21,Colorectum and anus
+2003,deaths,Female,647,C50,Breast
+2005,deaths,Female,647,C50,Breast
+2013,deaths,AllSex,647,C61,Prostate
+2013,deaths,Male,647,C61,Prostate
+2015,deaths,AllSex,647,C61,Prostate
+2015,deaths,Male,647,C61,Prostate
+2001,regs,Female,646,C33-C34,Lung & Trachea
+2004,deaths,AllSex,646,C50,Breast
+2007,deaths,Male,644,C18-C21,Colorectum and anus
+2010,deaths,AllSex,644,C50,Breast
+2001,regs,AllSex,643,C91-C95,Leukaemia
+1997,deaths,Female,643,C50,Breast
+2007,deaths,Female,643,C50,Breast
+2004,deaths,Female,642,C50,Breast
+2010,deaths,Female,641,C50,Breast
+2011,deaths,AllSex,641,C50,Breast
+2013,deaths,AllSex,641,C50,Breast
+2004,regs,AllSex,639,"C82-C86, C96",Non-Hodgkin lymphoma
+2016,deaths,Female,637,C18-C21,Colorectum and anus
+2011,deaths,Female,636,C50,Breast
+2002,regs,AllSex,634,"C82-C86, C96",Non-Hodgkin lymphoma
+2009,deaths,Male,634,C18-C21,Colorectum and anus
+2013,deaths,Female,633,C50,Breast
+2006,deaths,Female,629,C18-C21,Colorectum and anus
+2002,deaths,AllSex,627,C50,Breast
+2002,deaths,Female,626,C50,Breast
+2004,deaths,Female,626,C33-C34,Lung & Trachea
+2001,regs,AllSex,625,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,deaths,Female,625,C18-C21,Colorectum and anus
+2000,deaths,AllSex,624,C50,Breast
+2008,deaths,AllSex,624,C50,Breast
+2003,regs,AllSex,623,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,regs,AllSex,623,"C64-C66, C68",Kidney and other urinary
+2000,deaths,Female,622,C50,Breast
+2006,deaths,AllSex,621,C50,Breast
+2012,deaths,Female,619,C18-C21,Colorectum and anus
+2006,deaths,Female,618,C50,Breast
+2008,deaths,Female,618,C50,Breast
+2010,deaths,Male,618,C18-C21,Colorectum and anus
+2012,deaths,AllSex,618,C50,Breast
+2001,deaths,AllSex,617,C50,Breast
+2003,deaths,Female,617,C33-C34,Lung & Trachea
+2012,deaths,Female,617,C50,Breast
+1998,regs,AllSex,616,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,regs,AllSex,615,C91-C95,Leukaemia
+2001,deaths,Female,615,C50,Breast
+2005,deaths,Female,614,C18-C21,Colorectum and anus
+2014,deaths,AllSex,613,C50,Breast
+2010,regs,AllSex,612,C91-C95,Leukaemia
+2009,deaths,Female,610,C18-C21,Colorectum and anus
+2007,deaths,Female,609,C18-C21,Colorectum and anus
+2000,regs,AllSex,608,C91-C95,Leukaemia
+1999,regs,Female,607,C33-C34,Lung & Trachea
+2005,deaths,Male,607,C18-C21,Colorectum and anus
+2012,deaths,AllSex,607,C61,Prostate
+2012,deaths,Male,607,C61,Prostate
+2014,deaths,Female,607,C50,Breast
+2002,deaths,Female,606,C33-C34,Lung & Trachea
+2008,regs,AllSex,605,C91-C95,Leukaemia
+2001,deaths,Male,605,C18-C21,Colorectum and anus
+1996,regs,Female,604,C33-C34,Lung & Trachea
+1998,regs,AllSex,604,C91-C95,Leukaemia
+2004,deaths,Female,603,C18-C21,Colorectum and anus
+2011,deaths,Male,602,C18-C21,Colorectum and anus
+2010,regs,AllSex,598,"C64-C66, C68",Kidney and other urinary
+1997,regs,Female,596,C33-C34,Lung & Trachea
+2005,regs,AllSex,595,C91-C95,Leukaemia
+2015,regs,AllSex,595,C25,Pancreas
+2000,deaths,AllSex,594,C61,Prostate
+2000,deaths,Male,594,C61,Prostate
+2001,deaths,Female,593,C33-C34,Lung & Trachea
+2013,deaths,Female,593,C18-C21,Colorectum and anus
+2009,regs,AllSex,592,C91-C95,Leukaemia
+2016,regs,AllSex,592,C54-C55,Uterus
+2016,regs,Female,592,C54-C55,Uterus
+2001,deaths,AllSex,592,C61,Prostate
+2001,deaths,Male,592,C61,Prostate
+2016,regs,AllSex,591,C25,Pancreas
+2002,deaths,AllSex,591,C61,Prostate
+2002,deaths,Male,591,C61,Prostate
+2010,deaths,Female,590,C18-C21,Colorectum and anus
+2016,deaths,AllSex,590,C61,Prostate
+2016,deaths,Male,590,C61,Prostate
+2010,deaths,AllSex,589,C61,Prostate
+2010,deaths,Male,589,C61,Prostate
+2011,deaths,Female,589,C18-C21,Colorectum and anus
+2012,regs,AllSex,588,"C64-C66, C68",Kidney and other urinary
+1996,deaths,Male,587,C18-C21,Colorectum and anus
+2002,deaths,Male,587,C18-C21,Colorectum and anus
+2005,deaths,Female,587,C33-C34,Lung & Trachea
+2008,deaths,Female,587,C18-C21,Colorectum and anus
+2011,regs,AllSex,586,C91-C95,Leukaemia
+2011,deaths,AllSex,585,C61,Prostate
+2011,deaths,Male,585,C61,Prostate
+2004,deaths,AllSex,583,C61,Prostate
+2004,deaths,Male,583,C61,Prostate
+1998,regs,AllSex,582,C67,Bladder
+1999,deaths,Male,579,C18-C21,Colorectum and anus
+2001,regs,AllSex,578,C67,Bladder
+2015,deaths,Female,578,C18-C21,Colorectum and anus
+2014,regs,AllSex,576,C25,Pancreas
+1997,deaths,Male,575,C18-C21,Colorectum and anus
+2007,deaths,AllSex,575,C61,Prostate
+2007,deaths,Male,575,C61,Prostate
+1997,regs,AllSex,574,C91-C95,Leukaemia
+1997,regs,AllSex,573,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,regs,AllSex,573,"C64-C66, C68",Kidney and other urinary
+2001,deaths,Female,572,C18-C21,Colorectum and anus
+2000,deaths,Male,571,C18-C21,Colorectum and anus
+2004,deaths,Male,571,C18-C21,Colorectum and anus
+1998,deaths,Male,570,C18-C21,Colorectum and anus
+1999,regs,AllSex,569,"C82-C86, C96",Non-Hodgkin lymphoma
+1999,deaths,Female,569,C33-C34,Lung & Trachea
+2007,regs,AllSex,568,C91-C95,Leukaemia
+2005,deaths,AllSex,564,C61,Prostate
+2005,deaths,Male,564,C61,Prostate
+2006,deaths,Male,564,C18-C21,Colorectum and anus
+2000,deaths,Female,563,C18-C21,Colorectum and anus
+1996,regs,AllSex,562,"C82-C86, C96",Non-Hodgkin lymphoma
+2009,deaths,AllSex,562,C61,Prostate
+2009,deaths,Male,562,C61,Prostate
+2003,deaths,Male,561,C18-C21,Colorectum and anus
+2006,deaths,AllSex,559,C61,Prostate
+2006,deaths,Male,559,C61,Prostate
+2008,regs,AllSex,558,"C64-C66, C68",Kidney and other urinary
+1999,regs,AllSex,557,C67,Bladder
+1999,deaths,Female,557,C18-C21,Colorectum and anus
+2003,deaths,AllSex,556,C61,Prostate
+2003,deaths,Male,556,C61,Prostate
+2000,regs,AllSex,555,C67,Bladder
+2003,regs,AllSex,555,C67,Bladder
+1998,deaths,Female,555,C18-C21,Colorectum and anus
+2003,deaths,Female,555,C18-C21,Colorectum and anus
+2004,regs,AllSex,553,C67,Bladder
+2012,regs,AllSex,553,C25,Pancreas
+2000,regs,AllSex,552,"C82-C86, C96",Non-Hodgkin lymphoma
+1999,deaths,AllSex,552,C61,Prostate
+1999,deaths,Male,552,C61,Prostate
+2015,regs,AllSex,551,C54-C55,Uterus
+2015,regs,Female,551,C54-C55,Uterus
+2002,deaths,Female,548,C18-C21,Colorectum and anus
+1996,deaths,Female,546,C18-C21,Colorectum and anus
+2000,deaths,Female,546,C33-C34,Lung & Trachea
+1996,regs,AllSex,544,C67,Bladder
+1996,regs,AllSex,543,C91-C95,Leukaemia
+1998,regs,Female,543,C33-C34,Lung & Trachea
+2006,regs,AllSex,543,C91-C95,Leukaemia
+2013,regs,AllSex,542,C54-C55,Uterus
+2013,regs,Female,542,C54-C55,Uterus
+2002,regs,AllSex,534,C67,Bladder
+1997,deaths,Female,530,C33-C34,Lung & Trachea
+2009,regs,AllSex,527,"C64-C66, C68",Kidney and other urinary
+1999,regs,AllSex,526,C91-C95,Leukaemia
+2014,regs,AllSex,526,C54-C55,Uterus
+2014,regs,Female,526,C54-C55,Uterus
+2016,regs,AllSex,526,C00-C14,"Lip, Oral Cavity and Pharynx"
+1998,deaths,Female,526,C33-C34,Lung & Trachea
+1997,deaths,AllSex,525,C61,Prostate
+1997,deaths,Male,525,C61,Prostate
+1998,deaths,AllSex,525,C61,Prostate
+1998,deaths,Male,525,C61,Prostate
+2016,deaths,AllSex,522,C25,Pancreas
+2012,regs,AllSex,518,C54-C55,Uterus
+2012,regs,Female,518,C54-C55,Uterus
+2007,regs,AllSex,514,"C64-C66, C68",Kidney and other urinary
+2013,regs,AllSex,514,C25,Pancreas
+2015,regs,AllSex,514,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,deaths,Female,514,C18-C21,Colorectum and anus
+1997,regs,AllSex,509,C67,Bladder
+2010,regs,AllSex,507,C25,Pancreas
+2015,deaths,AllSex,505,C25,Pancreas
+2010,regs,AllSex,503,C54-C55,Uterus
+2010,regs,Female,503,C54-C55,Uterus
+2016,regs,Male,502,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,deaths,AllSex,502,C61,Prostate
+1996,deaths,Male,502,C61,Prostate
+1996,deaths,Female,500,C33-C34,Lung & Trachea
+2014,deaths,AllSex,483,C25,Pancreas
+2004,regs,AllSex,482,"C64-C66, C68",Kidney and other urinary
+2009,regs,AllSex,476,C25,Pancreas
+2015,regs,Male,471,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,deaths,AllSex,463,C25,Pancreas
+2013,deaths,AllSex,463,C25,Pancreas
+2011,regs,AllSex,459,C25,Pancreas
+2004,regs,AllSex,458,D45-D47,#N/A
+2013,regs,Male,457,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,regs,AllSex,455,C54-C55,Uterus
+2011,regs,Female,455,C54-C55,Uterus
+2014,regs,Male,449,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,regs,Male,447,"C64-C66, C68",Kidney and other urinary
+2005,regs,AllSex,444,D45-D47,#N/A
+2010,regs,Male,444,"C82-C86, C96",Non-Hodgkin lymphoma
+2015,regs,Male,444,"C64-C66, C68",Kidney and other urinary
+2016,regs,Male,443,C91-C95,Leukaemia
+2014,regs,AllSex,441,C00-C14,"Lip, Oral Cavity and Pharynx"
+2009,regs,AllSex,439,C54-C55,Uterus
+2009,regs,Female,439,C54-C55,Uterus
+2013,regs,AllSex,439,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,regs,Male,438,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,regs,AllSex,438,C67,Bladder
+2008,regs,AllSex,436,C25,Pancreas
+2009,regs,Male,436,"C82-C86, C96",Non-Hodgkin lymphoma
+2010,deaths,AllSex,435,C25,Pancreas
+2015,regs,Male,434,C91-C95,Leukaemia
+1998,regs,Male,431,C67,Bladder
+2001,regs,Male,431,C67,Bladder
+2005,regs,AllSex,431,"C64-C66, C68",Kidney and other urinary
+2006,regs,AllSex,430,"C64-C66, C68",Kidney and other urinary
+2011,deaths,AllSex,429,C25,Pancreas
+2007,regs,AllSex,428,C25,Pancreas
+2007,deaths,AllSex,428,C25,Pancreas
+2016,regs,Female,427,"C82-C86, C96",Non-Hodgkin lymphoma
+2008,regs,AllSex,426,C54-C55,Uterus
+2008,regs,Female,426,C54-C55,Uterus
+2010,regs,AllSex,424,C00-C14,"Lip, Oral Cavity and Pharynx"
+2013,regs,Male,422,"C64-C66, C68",Kidney and other urinary
+2012,regs,AllSex,421,C00-C14,"Lip, Oral Cavity and Pharynx"
+2015,regs,AllSex,421,C67,Bladder
+2016,regs,AllSex,421,C67,Bladder
+2006,regs,AllSex,420,D45-D47,#N/A
+2008,regs,Male,420,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,regs,Male,419,C67,Bladder
+1998,regs,AllSex,418,C16,Stomach
+2003,regs,Male,417,C91-C95,Leukaemia
+2003,regs,AllSex,416,"C64-C66, C68",Kidney and other urinary
+2009,deaths,AllSex,413,C25,Pancreas
+2004,regs,Male,412,C67,Bladder
+2016,regs,AllSex,410,C90,Myeloma
+1999,regs,Male,409,C67,Bladder
+2016,regs,AllSex,409,C16,Stomach
+2005,regs,AllSex,408,C25,Pancreas
+2002,regs,AllSex,407,C16,Stomach
+2013,regs,Male,407,C91-C95,Leukaemia
+2014,regs,Male,406,C91-C95,Leukaemia
+2002,regs,Male,405,C91-C95,Leukaemia
+2007,regs,AllSex,405,C54-C55,Uterus
+2007,regs,Female,405,C54-C55,Uterus
+1996,regs,Male,404,C67,Bladder
+1996,regs,AllSex,402,C16,Stomach
+2006,regs,AllSex,397,C25,Pancreas
+2006,regs,Male,397,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,regs,AllSex,396,"C64-C66, C68",Kidney and other urinary
+2012,regs,Male,396,"C64-C66, C68",Kidney and other urinary
+2014,regs,AllSex,396,C16,Stomach
+2011,regs,AllSex,395,C16,Stomach
+2016,regs,Male,395,"C64-C66, C68",Kidney and other urinary
+1997,regs,AllSex,394,C16,Stomach
+2003,regs,AllSex,394,C16,Stomach
+1999,regs,AllSex,392,"C64-C66, C68",Kidney and other urinary
+2001,regs,AllSex,392,"C64-C66, C68",Kidney and other urinary
+2005,regs,AllSex,390,C54-C55,Uterus
+2005,regs,Female,390,C54-C55,Uterus
+2010,regs,Male,390,"C64-C66, C68",Kidney and other urinary
+2015,regs,AllSex,390,C90,Myeloma
+2000,regs,Male,389,C67,Bladder
+2010,regs,AllSex,388,C67,Bladder
+1999,regs,AllSex,387,C16,Stomach
+2002,regs,Male,387,C67,Bladder
+2001,regs,AllSex,386,C16,Stomach
+2015,regs,AllSex,386,C16,Stomach
+2002,regs,AllSex,385,"C64-C66, C68",Kidney and other urinary
+2011,regs,AllSex,384,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,regs,AllSex,383,C90,Myeloma
+2012,regs,AllSex,381,C16,Stomach
+2007,regs,AllSex,380,D45-D47,#N/A
+2011,regs,Male,380,"C82-C86, C96",Non-Hodgkin lymphoma
+2015,regs,Female,380,"C82-C86, C96",Non-Hodgkin lymphoma
+2007,regs,AllSex,378,C16,Stomach
+2014,deaths,AllSex,378,C43,Melanoma
+2015,deaths,AllSex,378,C43,Melanoma
+2007,regs,Male,376,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,regs,Male,374,"C64-C66, C68",Kidney and other urinary
+2013,regs,AllSex,374,C16,Stomach
+2008,regs,AllSex,373,C16,Stomach
+2008,deaths,AllSex,373,C25,Pancreas
+2013,regs,AllSex,372,C67,Bladder
+1997,regs,Male,371,C67,Bladder
+2001,regs,Male,371,C91-C95,Leukaemia
+2004,regs,AllSex,371,C16,Stomach
+2007,regs,AllSex,371,C67,Bladder
+2009,regs,AllSex,371,C16,Stomach
+2010,regs,AllSex,370,C16,Stomach
+2000,regs,Male,369,C91-C95,Leukaemia
+2004,regs,AllSex,368,C25,Pancreas
+2010,regs,Male,368,C91-C95,Leukaemia
+2006,regs,AllSex,367,C54-C55,Uterus
+2006,regs,Female,367,C54-C55,Uterus
+2013,regs,AllSex,367,C90,Myeloma
+2006,regs,AllSex,366,C16,Stomach
+2012,regs,AllSex,366,C90,Myeloma
+2015,regs,AllSex,366,C56-C57,Ovary
+2015,regs,Female,366,C56-C57,Ovary
+2012,regs,Male,365,C91-C95,Leukaemia
+2000,regs,AllSex,364,C16,Stomach
+2005,regs,Male,364,"C82-C86, C96",Non-Hodgkin lymphoma
+2009,regs,AllSex,364,C67,Bladder
+2015,regs,AllSex,364,C22,Liver and intrahepatic bile ducts
+2015,regs,Male,363,C00-C14,"Lip, Oral Cavity and Pharynx"
+2016,deaths,AllSex,363,C43,Melanoma
+1998,regs,Male,361,C91-C95,Leukaemia
+2007,regs,AllSex,360,C00-C14,"Lip, Oral Cavity and Pharynx"
+2008,regs,Male,360,"C64-C66, C68",Kidney and other urinary
+2016,regs,AllSex,360,D45-D47,#N/A
+2008,regs,AllSex,359,C67,Bladder
+2016,regs,AllSex,359,C56-C57,Ovary
+2016,regs,Female,359,C56-C57,Ovary
+2011,deaths,AllSex,359,C43,Melanoma
+2004,regs,Male,358,C91-C95,Leukaemia
+2000,regs,AllSex,357,"C64-C66, C68",Kidney and other urinary
+2006,regs,AllSex,357,C00-C14,"Lip, Oral Cavity and Pharynx"
+2016,regs,AllSex,356,C73,Thyroid
+2013,deaths,AllSex,356,C43,Melanoma
+2014,regs,AllSex,355,C22,Liver and intrahepatic bile ducts
+2004,deaths,AllSex,355,C25,Pancreas
+2006,deaths,AllSex,355,C25,Pancreas
+2012,deaths,AllSex,354,C43,Melanoma
+2008,regs,AllSex,353,C00-C14,"Lip, Oral Cavity and Pharynx"
+2008,regs,Female,353,"C82-C86, C96",Non-Hodgkin lymphoma
+2005,deaths,AllSex,353,C25,Pancreas
+2015,deaths,AllSex,353,C91-C95,Leukaemia
+2003,regs,AllSex,352,C25,Pancreas
+2016,regs,Male,351,C00-C14,"Lip, Oral Cavity and Pharynx"
+2003,regs,Male,350,"C82-C86, C96",Non-Hodgkin lymphoma
+2008,regs,Male,349,C91-C95,Leukaemia
+1998,regs,AllSex,348,"C64-C66, C68",Kidney and other urinary
+2009,regs,AllSex,348,C00-C14,"Lip, Oral Cavity and Pharynx"
+2010,regs,AllSex,348,C56-C57,Ovary
+2010,regs,Female,348,C56-C57,Ovary
+2016,regs,AllSex,348,C22,Liver and intrahepatic bile ducts
+2004,regs,Male,347,"C82-C86, C96",Non-Hodgkin lymphoma
+2005,regs,AllSex,347,C16,Stomach
+2011,regs,Female,347,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,regs,AllSex,346,C56-C57,Ovary
+2013,regs,Female,346,C56-C57,Ovary
+2012,deaths,AllSex,346,C91-C95,Leukaemia
+2008,regs,AllSex,345,D45-D47,#N/A
+2010,regs,Female,344,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,regs,AllSex,343,C54-C55,Uterus
+2004,regs,Female,343,C54-C55,Uterus
+2005,regs,Male,343,C91-C95,Leukaemia
+1998,deaths,AllSex,343,C25,Pancreas
+1996,regs,AllSex,340,"C64-C66, C68",Kidney and other urinary
+2011,regs,Male,340,C91-C95,Leukaemia
+2002,regs,Female,339,"C82-C86, C96",Non-Hodgkin lymphoma
+2009,regs,Male,339,C91-C95,Leukaemia
+2007,regs,Male,337,"C64-C66, C68",Kidney and other urinary
+2014,regs,AllSex,336,C56-C57,Ovary
+2014,regs,Female,336,C56-C57,Ovary
+2016,regs,AllSex,336,C71,Brain
+2009,regs,AllSex,335,D45-D47,#N/A
+2009,regs,Male,335,"C64-C66, C68",Kidney and other urinary
+2010,regs,AllSex,335,D45-D47,#N/A
+2003,deaths,AllSex,335,"C82-C86, C96",Non-Hodgkin lymphoma
+1998,regs,AllSex,334,C25,Pancreas
+1999,deaths,AllSex,334,C16,Stomach
+2016,deaths,AllSex,333,C91-C95,Leukaemia
+2009,regs,AllSex,331,C56-C57,Ovary
+2009,regs,Female,331,C56-C57,Ovary
+2011,regs,AllSex,331,C22,Liver and intrahepatic bile ducts
+2007,regs,Female,330,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,regs,AllSex,330,D45-D47,#N/A
+2014,regs,Female,330,"C82-C86, C96",Non-Hodgkin lymphoma
+2001,regs,Male,329,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,regs,Female,329,"C82-C86, C96",Non-Hodgkin lymphoma
+2002,regs,AllSex,328,C56-C57,Ovary
+2002,regs,Female,328,C56-C57,Ovary
+2009,regs,Female,328,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,regs,AllSex,328,D45-D47,#N/A
+2013,regs,AllSex,327,D45-D47,#N/A
+1999,deaths,AllSex,327,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,regs,AllSex,326,C54-C55,Uterus
+2003,regs,Female,326,C54-C55,Uterus
+2011,regs,AllSex,326,C67,Bladder
+2012,regs,AllSex,326,C67,Bladder
+2009,deaths,AllSex,326,C43,Melanoma
+2014,deaths,AllSex,326,C91-C95,Leukaemia
+1996,regs,AllSex,325,C25,Pancreas
+2013,regs,AllSex,325,C71,Brain
+1999,regs,AllSex,324,C56-C57,Ovary
+1999,regs,Female,324,C56-C57,Ovary
+2000,regs,AllSex,324,C25,Pancreas
+2002,regs,AllSex,324,C25,Pancreas
+2008,regs,AllSex,324,C56-C57,Ovary
+2008,regs,Female,324,C56-C57,Ovary
+2010,deaths,AllSex,324,C43,Melanoma
+1997,regs,Male,322,C91-C95,Leukaemia
+1999,regs,Male,322,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,regs,Male,322,C67,Bladder
+2001,regs,AllSex,321,C56-C57,Ovary
+2001,regs,Female,321,C56-C57,Ovary
+2003,regs,Female,321,C91-C95,Leukaemia
+2005,regs,AllSex,321,C67,Bladder
+2010,regs,AllSex,321,C71,Brain
+1999,regs,AllSex,319,C54-C55,Uterus
+1999,regs,Female,319,C54-C55,Uterus
+1998,deaths,AllSex,318,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,AllSex,318,C91-C95,Leukaemia
+1999,regs,Male,317,C91-C95,Leukaemia
+2005,regs,AllSex,317,C56-C57,Ovary
+2005,regs,Female,317,C56-C57,Ovary
+2014,regs,AllSex,317,D45-D47,#N/A
+2015,regs,AllSex,317,C71,Brain
+2008,deaths,AllSex,317,C43,Melanoma
+2013,deaths,AllSex,317,"C82-C86, C96",Non-Hodgkin lymphoma
+2002,regs,AllSex,316,C54-C55,Uterus
+2002,regs,Female,316,C54-C55,Uterus
+2003,regs,AllSex,316,C00-C14,"Lip, Oral Cavity and Pharynx"
+2006,regs,AllSex,316,C67,Bladder
+2007,regs,Male,316,C91-C95,Leukaemia
+2010,regs,AllSex,316,C90,Myeloma
+2013,deaths,AllSex,316,C91-C95,Leukaemia
+2016,deaths,AllSex,316,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,regs,Female,315,"C82-C86, C96",Non-Hodgkin lymphoma
+2016,regs,Male,315,C67,Bladder
+2003,deaths,AllSex,315,C16,Stomach
+2011,regs,AllSex,314,C56-C57,Ovary
+2011,regs,Female,314,C56-C57,Ovary
+2012,regs,AllSex,314,C22,Liver and intrahepatic bile ducts
+2013,regs,AllSex,314,C15,Oesophagus
+2015,regs,AllSex,314,C73,Thyroid
+2006,deaths,AllSex,314,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,regs,AllSex,313,C25,Pancreas
+2001,regs,AllSex,313,C54-C55,Uterus
+2001,regs,Female,313,C54-C55,Uterus
+2016,deaths,AllSex,313,C16,Stomach
+1998,regs,Male,312,"C82-C86, C96",Non-Hodgkin lymphoma
+2001,regs,AllSex,312,C25,Pancreas
+2000,deaths,AllSex,312,C25,Pancreas
+1999,regs,AllSex,310,C25,Pancreas
+2015,regs,AllSex,310,C15,Oesophagus
+2015,regs,AllSex,310,D45-D47,#N/A
+1999,regs,AllSex,309,C00-C14,"Lip, Oral Cavity and Pharynx"
+2000,regs,AllSex,309,C56-C57,Ovary
+2000,regs,Female,309,C56-C57,Ovary
+2002,regs,Female,309,C91-C95,Leukaemia
+2006,regs,AllSex,309,C56-C57,Ovary
+2006,regs,Female,309,C56-C57,Ovary
+2012,regs,AllSex,309,C71,Brain
+2000,deaths,AllSex,309,C16,Stomach
+2012,regs,AllSex,308,C15,Oesophagus
+2016,regs,Male,308,C25,Pancreas
+2015,regs,Male,307,C67,Bladder
+2005,deaths,AllSex,307,C91-C95,Leukaemia
+2003,deaths,AllSex,306,C25,Pancreas
+2007,deaths,AllSex,306,"C82-C86, C96",Non-Hodgkin lymphoma
+2007,deaths,AllSex,306,C91-C95,Leukaemia
+2005,regs,Female,305,"C82-C86, C96",Non-Hodgkin lymphoma
+1998,regs,Female,304,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,regs,AllSex,303,C56-C57,Ovary
+2004,regs,Female,303,C56-C57,Ovary
+2006,regs,Male,303,C91-C95,Leukaemia
+2014,regs,AllSex,303,C73,Thyroid
+1998,deaths,AllSex,303,C16,Stomach
+2001,deaths,AllSex,303,C16,Stomach
+2002,deaths,AllSex,303,C25,Pancreas
+2004,regs,AllSex,302,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,regs,AllSex,302,C56-C57,Ovary
+2012,regs,Female,302,C56-C57,Ovary
+2015,regs,Male,302,C25,Pancreas
+2004,regs,Male,301,"C64-C66, C68",Kidney and other urinary
+2006,regs,Female,301,"C82-C86, C96",Non-Hodgkin lymphoma
+2002,deaths,AllSex,301,C16,Stomach
+2004,deaths,AllSex,301,C16,Stomach
+2012,deaths,AllSex,301,C16,Stomach
+2010,regs,AllSex,300,C15,Oesophagus
+2014,regs,AllSex,300,C71,Brain
+2001,deaths,AllSex,300,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,regs,Male,299,C91-C95,Leukaemia
+2006,deaths,AllSex,299,C91-C95,Leukaemia
+2011,regs,AllSex,298,C71,Brain
+2013,regs,AllSex,298,C73,Thyroid
+1999,deaths,AllSex,298,C25,Pancreas
+1998,regs,AllSex,297,C56-C57,Ovary
+1998,regs,Female,297,C56-C57,Ovary
+2010,regs,Male,297,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,deaths,AllSex,297,C16,Stomach
+1996,deaths,AllSex,297,C25,Pancreas
+2007,deaths,AllSex,297,C16,Stomach
+1996,regs,AllSex,296,C56-C57,Ovary
+1996,regs,Female,296,C56-C57,Ovary
+1998,regs,AllSex,296,C00-C14,"Lip, Oral Cavity and Pharynx"
+2001,regs,Female,296,"C82-C86, C96",Non-Hodgkin lymphoma
+2006,regs,Male,296,"C64-C66, C68",Kidney and other urinary
+2011,regs,AllSex,296,C90,Myeloma
+2014,regs,Female,296,C25,Pancreas
+2011,deaths,AllSex,296,C16,Stomach
+2002,regs,Male,295,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,regs,Female,295,C91-C95,Leukaemia
+2000,regs,Male,293,"C82-C86, C96",Non-Hodgkin lymphoma
+2015,regs,Female,293,C25,Pancreas
+2004,regs,Female,292,"C82-C86, C96",Non-Hodgkin lymphoma
+2009,regs,AllSex,292,C90,Myeloma
+2013,regs,AllSex,292,C22,Liver and intrahepatic bile ducts
+2014,regs,Male,292,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,deaths,AllSex,292,C43,Melanoma
+2003,regs,AllSex,291,D45-D47,#N/A
+2004,deaths,AllSex,291,C91-C95,Leukaemia
+2009,deaths,AllSex,291,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,regs,Male,290,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,regs,Male,290,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,deaths,AllSex,290,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,regs,AllSex,289,C00-C14,"Lip, Oral Cavity and Pharynx"
+2010,deaths,AllSex,289,C91-C95,Leukaemia
+2004,deaths,AllSex,288,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,AllSex,288,"C82-C86, C96",Non-Hodgkin lymphoma
+2006,deaths,AllSex,287,C43,Melanoma
+2008,deaths,AllSex,287,C91-C95,Leukaemia
+2007,regs,AllSex,285,C15,Oesophagus
+2010,regs,Male,285,C67,Bladder
+2001,deaths,AllSex,285,C25,Pancreas
+2003,deaths,AllSex,285,C43,Melanoma
+2015,deaths,AllSex,285,C22,Liver and intrahepatic bile ducts
+2008,regs,AllSex,284,C15,Oesophagus
+1997,deaths,AllSex,284,C25,Pancreas
+2014,deaths,AllSex,284,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,regs,AllSex,283,C71,Brain
+1997,regs,Female,283,"C82-C86, C96",Non-Hodgkin lymphoma
+2005,regs,AllSex,283,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,regs,Female,283,C25,Pancreas
+2016,regs,Female,283,C25,Pancreas
+1996,deaths,AllSex,283,"C82-C86, C96",Non-Hodgkin lymphoma
+2002,deaths,AllSex,283,"C82-C86, C96",Non-Hodgkin lymphoma
+2008,deaths,AllSex,283,C16,Stomach
+1998,regs,AllSex,282,C54-C55,Uterus
+1998,regs,Female,282,C54-C55,Uterus
+2000,regs,AllSex,282,C54-C55,Uterus
+2000,regs,Female,282,C54-C55,Uterus
+2013,deaths,AllSex,282,C16,Stomach
+1997,regs,AllSex,281,C56-C57,Ovary
+1997,regs,Female,281,C56-C57,Ovary
+1996,regs,AllSex,280,C54-C55,Uterus
+1996,regs,Female,280,C54-C55,Uterus
+2014,regs,Male,280,C25,Pancreas
+2001,regs,AllSex,279,C00-C14,"Lip, Oral Cavity and Pharynx"
+2002,regs,AllSex,279,C71,Brain
+2009,regs,AllSex,279,C71,Brain
+1997,regs,AllSex,278,C54-C55,Uterus
+1997,regs,Female,278,C54-C55,Uterus
+2012,deaths,AllSex,278,C71,Brain
+2012,regs,AllSex,277,C73,Thyroid
+2000,regs,AllSex,276,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,regs,Male,276,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,regs,AllSex,276,C15,Oesophagus
+2015,regs,Female,276,C91-C95,Leukaemia
+2014,deaths,AllSex,276,C16,Stomach
+2002,regs,AllSex,275,C90,Myeloma
+2007,regs,Male,274,C67,Bladder
+2008,deaths,AllSex,274,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,deaths,AllSex,274,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,regs,Female,273,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,regs,Male,273,C00-C14,"Lip, Oral Cavity and Pharynx"
+2013,regs,Male,273,C67,Bladder
+2006,deaths,AllSex,273,C16,Stomach
+2016,deaths,AllSex,273,C71,Brain
+1996,regs,Female,272,"C82-C86, C96",Non-Hodgkin lymphoma
+2001,regs,Female,272,C91-C95,Leukaemia
+2012,regs,Male,270,C25,Pancreas
+2003,deaths,AllSex,269,C91-C95,Leukaemia
+2005,deaths,AllSex,269,C43,Melanoma
+2015,deaths,AllSex,269,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,regs,AllSex,268,C15,Oesophagus
+1997,deaths,AllSex,268,C16,Stomach
+2007,regs,AllSex,267,C71,Brain
+2007,regs,AllSex,267,C90,Myeloma
+2016,regs,Male,267,C16,Stomach
+2015,deaths,Female,267,C25,Pancreas
+2006,regs,AllSex,266,C15,Oesophagus
+2010,regs,AllSex,266,C22,Liver and intrahepatic bile ducts
+1999,deaths,AllSex,266,C91-C95,Leukaemia
+2009,deaths,AllSex,266,C91-C95,Leukaemia
+2016,deaths,Female,266,C25,Pancreas
+2002,regs,AllSex,265,C00-C14,"Lip, Oral Cavity and Pharynx"
+2006,regs,Male,265,D45-D47,#N/A
+2008,regs,AllSex,265,C90,Myeloma
+2000,deaths,AllSex,265,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,regs,AllSex,264,C56-C57,Ovary
+2003,regs,Female,264,C56-C57,Ovary
+2016,deaths,AllSex,264,C22,Liver and intrahepatic bile ducts
+2002,regs,Male,263,C16,Stomach
+2006,regs,AllSex,263,C90,Myeloma
+2011,regs,AllSex,263,C73,Thyroid
+2005,deaths,AllSex,263,"C82-C86, C96",Non-Hodgkin lymphoma
+2010,deaths,AllSex,263,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,deaths,AllSex,263,C15,Oesophagus
+2003,regs,Male,262,"C64-C66, C68",Kidney and other urinary
+2004,regs,AllSex,262,C71,Brain
+2006,regs,AllSex,262,C71,Brain
+2009,regs,AllSex,262,C22,Liver and intrahepatic bile ducts
+2013,regs,Female,262,C91-C95,Leukaemia
+2011,deaths,AllSex,262,C15,Oesophagus
+2013,deaths,AllSex,262,C71,Brain
+2010,regs,Male,261,C25,Pancreas
+2003,regs,AllSex,260,C15,Oesophagus
+2005,regs,Male,260,"C64-C66, C68",Kidney and other urinary
+2016,regs,AllSex,260,C15,Oesophagus
+2016,regs,Female,260,C73,Thyroid
+2000,deaths,AllSex,260,C91-C95,Leukaemia
+2000,regs,Female,259,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,regs,Male,259,D45-D47,#N/A
+2007,regs,AllSex,259,C56-C57,Ovary
+2007,regs,Female,259,C56-C57,Ovary
+2009,regs,AllSex,259,C15,Oesophagus
+2010,regs,AllSex,259,C73,Thyroid
+2011,regs,Male,259,C00-C14,"Lip, Oral Cavity and Pharynx"
+2013,regs,Male,259,C25,Pancreas
+2015,deaths,AllSex,259,C16,Stomach
+2015,deaths,AllSex,259,C56-C57,Ovary
+2015,deaths,Female,259,C56-C57,Ovary
+2005,regs,AllSex,258,C71,Brain
+2001,regs,AllSex,257,C71,Brain
+1998,regs,AllSex,256,C71,Brain
+2008,regs,Female,256,C91-C95,Leukaemia
+1998,deaths,AllSex,256,C91-C95,Leukaemia
+2005,deaths,AllSex,256,C16,Stomach
+2014,deaths,AllSex,256,C22,Liver and intrahepatic bile ducts
+2016,deaths,Male,256,C25,Pancreas
+2013,regs,Female,255,C25,Pancreas
+2015,deaths,Male,255,C43,Melanoma
+1996,regs,Male,254,C16,Stomach
+2001,regs,AllSex,254,C90,Myeloma
+2000,regs,AllSex,253,C71,Brain
+2007,regs,AllSex,253,C73,Thyroid
+2009,regs,Female,253,C91-C95,Leukaemia
+2009,regs,Male,253,C67,Bladder
+2016,regs,Female,253,"C64-C66, C68",Kidney and other urinary
+1996,deaths,AllSex,253,C91-C95,Leukaemia
+2000,deaths,AllSex,253,C43,Melanoma
+2010,deaths,AllSex,253,C16,Stomach
+1996,regs,AllSex,252,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,regs,Female,252,C91-C95,Leukaemia
+2003,regs,AllSex,252,C71,Brain
+2003,regs,Male,252,C16,Stomach
+2004,regs,AllSex,252,C15,Oesophagus
+2005,regs,Female,252,C91-C95,Leukaemia
+2007,regs,Female,252,C91-C95,Leukaemia
+2014,regs,Female,252,C91-C95,Leukaemia
+2015,regs,Male,252,C22,Liver and intrahepatic bile ducts
+2001,deaths,AllSex,252,C91-C95,Leukaemia
+2013,deaths,AllSex,252,C22,Liver and intrahepatic bile ducts
+1999,regs,Male,251,C16,Stomach
+1998,regs,Male,250,C16,Stomach
+2005,regs,Male,250,D45-D47,#N/A
+2011,regs,Male,250,C16,Stomach
+2012,regs,Female,250,C91-C95,Leukaemia
+2014,regs,Male,250,C16,Stomach
+2004,deaths,AllSex,250,C43,Melanoma
+2011,deaths,AllSex,249,C71,Brain
+2013,deaths,AllSex,249,C15,Oesophagus
+2015,deaths,AllSex,249,C71,Brain
+2009,deaths,AllSex,248,C16,Stomach
+2013,deaths,Female,248,C25,Pancreas
+2014,deaths,Male,248,C25,Pancreas
+1999,regs,Female,247,"C82-C86, C96",Non-Hodgkin lymphoma
+2001,regs,Male,247,"C64-C66, C68",Kidney and other urinary
+2015,deaths,AllSex,247,C15,Oesophagus
+2005,regs,Male,246,C67,Bladder
+2010,regs,Female,246,C25,Pancreas
+2011,regs,Female,246,C91-C95,Leukaemia
+2016,regs,Female,246,C91-C95,Leukaemia
+2016,regs,Male,246,C22,Liver and intrahepatic bile ducts
+2008,regs,AllSex,245,C71,Brain
+1996,regs,Female,244,C91-C95,Leukaemia
+2010,regs,Female,244,C91-C95,Leukaemia
+2001,deaths,AllSex,244,C43,Melanoma
+2007,deaths,AllSex,244,C15,Oesophagus
+1998,regs,Female,243,C91-C95,Leukaemia
+2008,regs,Male,243,C16,Stomach
+2008,regs,Male,243,C67,Bladder
+2011,deaths,Male,243,C43,Melanoma
+2013,deaths,AllSex,243,"C64-C66, C68",Kidney and other urinary
+2014,deaths,AllSex,243,C71,Brain
+2016,deaths,Male,243,C43,Melanoma
+2006,regs,Male,242,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,regs,AllSex,242,C22,Liver and intrahepatic bile ducts
+2009,regs,Female,242,C25,Pancreas
+2009,regs,Male,242,C16,Stomach
+2016,regs,Male,242,C90,Myeloma
+1998,deaths,AllSex,242,C43,Melanoma
+2009,deaths,AllSex,241,C15,Oesophagus
+1999,regs,Male,240,"C64-C66, C68",Kidney and other urinary
+2006,regs,Female,240,C91-C95,Leukaemia
+2008,regs,AllSex,240,C22,Liver and intrahepatic bile ducts
+2014,regs,Male,240,C22,Liver and intrahepatic bile ducts
+2011,deaths,AllSex,240,C22,Liver and intrahepatic bile ducts
+2000,regs,Female,239,C91-C95,Leukaemia
+2005,regs,AllSex,239,C90,Myeloma
+2012,regs,Male,239,C16,Stomach
+1999,regs,AllSex,238,C71,Brain
+2006,regs,Male,238,C67,Bladder
+2008,regs,Male,238,C00-C14,"Lip, Oral Cavity and Pharynx"
+2009,regs,Male,238,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,regs,Female,238,"C64-C66, C68",Kidney and other urinary
+2010,deaths,AllSex,238,C71,Brain
+2015,deaths,Male,238,C25,Pancreas
+2014,deaths,AllSex,237,"C64-C66, C68",Kidney and other urinary
+2014,deaths,Male,237,C43,Melanoma
+1998,regs,AllSex,236,C90,Myeloma
+2012,regs,Male,236,C67,Bladder
+2002,deaths,AllSex,236,C91-C95,Leukaemia
+2012,deaths,AllSex,236,C22,Liver and intrahepatic bile ducts
+1997,regs,Male,235,"C64-C66, C68",Kidney and other urinary
+2002,regs,AllSex,235,C15,Oesophagus
+2007,regs,Male,235,C16,Stomach
+2008,regs,AllSex,235,C73,Thyroid
+2015,regs,Male,235,C16,Stomach
+2002,deaths,AllSex,235,C43,Melanoma
+2006,deaths,AllSex,235,C71,Brain
+2014,deaths,Female,235,C25,Pancreas
+2015,deaths,AllSex,235,C67,Bladder
+1997,regs,AllSex,234,C71,Brain
+1997,regs,Male,234,C16,Stomach
+2000,regs,AllSex,234,C90,Myeloma
+2002,regs,Male,234,"C64-C66, C68",Kidney and other urinary
+2006,regs,AllSex,234,C22,Liver and intrahepatic bile ducts
+2009,regs,Male,234,C25,Pancreas
+2010,regs,Male,234,C16,Stomach
+2011,regs,Male,234,C67,Bladder
+2013,regs,Male,234,C90,Myeloma
+2015,regs,Male,234,C90,Myeloma
+2012,deaths,Female,234,C25,Pancreas
+2006,regs,Male,233,C16,Stomach
+2011,regs,Male,233,C22,Liver and intrahepatic bile ducts
+2013,regs,Male,233,C16,Stomach
+2016,deaths,AllSex,233,"C64-C66, C68",Kidney and other urinary
+2001,regs,Male,232,C16,Stomach
+1997,deaths,AllSex,232,C91-C95,Leukaemia
+2013,deaths,Male,232,C43,Melanoma
+2000,regs,Male,231,"C64-C66, C68",Kidney and other urinary
+2011,regs,Female,231,C25,Pancreas
+1999,deaths,AllSex,231,C43,Melanoma
+2000,regs,AllSex,230,C15,Oesophagus
+2004,regs,AllSex,230,C90,Myeloma
+2005,regs,AllSex,230,C22,Liver and intrahepatic bile ducts
+2006,regs,AllSex,230,C73,Thyroid
+2012,regs,Male,230,C22,Liver and intrahepatic bile ducts
+2009,deaths,AllSex,230,C56-C57,Ovary
+2009,deaths,Female,230,C56-C57,Ovary
+2008,regs,Female,229,C25,Pancreas
+2000,deaths,AllSex,229,C71,Brain
+2008,deaths,AllSex,229,C15,Oesophagus
+2012,deaths,Male,229,C25,Pancreas
+2015,deaths,AllSex,229,"C64-C66, C68",Kidney and other urinary
+2011,regs,Male,228,C25,Pancreas
+2012,regs,Male,228,C90,Myeloma
+2010,deaths,AllSex,228,C56-C57,Ovary
+2010,deaths,Female,228,C56-C57,Ovary
+2011,deaths,AllSex,228,C56-C57,Ovary
+2011,deaths,Female,228,C56-C57,Ovary
+2016,deaths,AllSex,228,C56-C57,Ovary
+2016,deaths,Female,228,C56-C57,Ovary
+2012,deaths,AllSex,227,C15,Oesophagus
+1999,regs,AllSex,226,C90,Myeloma
+2007,regs,Male,225,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,regs,Male,225,C25,Pancreas
+2009,regs,AllSex,225,C73,Thyroid
+2001,deaths,AllSex,225,C71,Brain
+1998,regs,Male,224,"C64-C66, C68",Kidney and other urinary
+2001,regs,AllSex,224,C15,Oesophagus
+2003,regs,AllSex,224,C90,Myeloma
+2003,deaths,AllSex,224,C71,Brain
+2006,deaths,AllSex,224,C56-C57,Ovary
+2006,deaths,Female,224,C56-C57,Ovary
+2016,deaths,AllSex,224,C67,Bladder
+2007,regs,Male,223,D45-D47,#N/A
+2014,deaths,AllSex,223,C67,Bladder
+2004,deaths,AllSex,222,C71,Brain
+2012,deaths,Male,222,C43,Melanoma
+1999,regs,AllSex,221,C53,Cervix
+1999,regs,Female,221,C53,Cervix
+2013,regs,Male,221,C15,Oesophagus
+2010,deaths,AllSex,221,C15,Oesophagus
+2011,deaths,AllSex,221,"C64-C66, C68",Kidney and other urinary
+1999,regs,AllSex,220,C15,Oesophagus
+2000,regs,Male,220,C16,Stomach
+2005,regs,AllSex,220,C15,Oesophagus
+2007,deaths,AllSex,220,C71,Brain
+2010,deaths,Male,220,C25,Pancreas
+2005,deaths,AllSex,219,C71,Brain
+2011,deaths,Male,219,C25,Pancreas
+2014,deaths,AllSex,219,C56-C57,Ovary
+2014,deaths,Female,219,C56-C57,Ovary
+1996,regs,AllSex,218,C90,Myeloma
+1997,regs,AllSex,218,C90,Myeloma
+2006,regs,Female,217,C25,Pancreas
+2007,deaths,Female,216,C25,Pancreas
+2002,deaths,AllSex,215,C71,Brain
+2009,deaths,AllSex,215,C71,Brain
+2010,deaths,Female,215,C25,Pancreas
+2013,deaths,Male,215,C25,Pancreas
+2016,deaths,AllSex,215,C15,Oesophagus
+2016,deaths,Male,215,C91-C95,Leukaemia
+2013,regs,Female,214,C73,Thyroid
+2015,regs,Female,214,C73,Thyroid
+2015,regs,Male,214,C15,Oesophagus
+2007,deaths,AllSex,214,C56-C57,Ovary
+2007,deaths,Female,214,C56-C57,Ovary
+2004,regs,Male,213,C16,Stomach
+2009,deaths,Male,213,C43,Melanoma
+1996,regs,AllSex,212,C53,Cervix
+1996,regs,Female,212,C53,Cervix
+1996,regs,Male,212,"C64-C66, C68",Kidney and other urinary
+2012,regs,Male,212,C15,Oesophagus
+1997,deaths,AllSex,212,C15,Oesophagus
+2001,deaths,AllSex,212,C15,Oesophagus
+2007,deaths,Male,212,C25,Pancreas
+2009,deaths,Male,211,C25,Pancreas
+2005,regs,Female,210,C25,Pancreas
+2012,regs,Female,210,C73,Thyroid
+2011,deaths,Female,210,C25,Pancreas
+2012,deaths,AllSex,210,"C64-C66, C68",Kidney and other urinary
+1999,regs,Female,209,C91-C95,Leukaemia
+2014,regs,Male,209,C90,Myeloma
+2015,regs,Female,209,"C64-C66, C68",Kidney and other urinary
+2006,deaths,AllSex,209,C22,Liver and intrahepatic bile ducts
+2009,deaths,AllSex,209,C67,Bladder
+2010,regs,Female,208,"C64-C66, C68",Kidney and other urinary
+2006,deaths,AllSex,208,C15,Oesophagus
+2015,deaths,Male,208,C91-C95,Leukaemia
+2000,regs,AllSex,207,C53,Cervix
+2000,regs,Female,207,C53,Cervix
+2008,regs,Male,207,C25,Pancreas
+2013,regs,Male,207,C22,Liver and intrahepatic bile ducts
+2014,regs,Female,207,C73,Thyroid
+2014,regs,Male,207,D45-D47,#N/A
+1997,deaths,AllSex,207,C71,Brain
+2008,deaths,AllSex,207,C71,Brain
+2009,deaths,AllSex,207,C22,Liver and intrahepatic bile ducts
+2012,deaths,AllSex,207,C67,Bladder
+1997,regs,AllSex,206,C53,Cervix
+1997,regs,Female,206,C53,Cervix
+1999,deaths,Male,206,C16,Stomach
+2003,deaths,Male,206,C16,Stomach
+2004,deaths,AllSex,206,C15,Oesophagus
+2005,regs,Male,205,C16,Stomach
+2008,regs,Male,205,D45-D47,#N/A
+1999,deaths,AllSex,205,C71,Brain
+2003,deaths,AllSex,205,C15,Oesophagus
+2010,deaths,AllSex,205,C22,Liver and intrahepatic bile ducts
+2010,deaths,AllSex,205,"C64-C66, C68",Kidney and other urinary
+2016,deaths,AllSex,205,C90,Myeloma
+2010,regs,Male,204,C15,Oesophagus
+2013,regs,Male,204,D45-D47,#N/A
+2007,regs,Female,203,C25,Pancreas
+2016,regs,Male,203,C71,Brain
+1998,deaths,AllSex,203,C71,Brain
+2007,deaths,AllSex,203,C22,Liver and intrahepatic bile ducts
+2008,deaths,Male,202,C43,Melanoma
+2009,deaths,Female,202,C25,Pancreas
+2013,deaths,AllSex,202,C56-C57,Ovary
+2013,deaths,Female,202,C56-C57,Ovary
+1999,regs,Male,201,C00-C14,"Lip, Oral Cavity and Pharynx"
+2013,regs,Female,201,"C64-C66, C68",Kidney and other urinary
+1997,deaths,AllSex,201,C43,Melanoma
+1998,regs,AllSex,200,C53,Cervix
+1998,regs,Female,200,C53,Cervix
+2011,regs,Male,200,D45-D47,#N/A
+1996,deaths,AllSex,200,C71,Brain
+2008,deaths,AllSex,200,C67,Bladder
+2011,deaths,AllSex,200,C67,Bladder
+1997,regs,AllSex,199,C15,Oesophagus
+1998,regs,Male,199,C00-C14,"Lip, Oral Cavity and Pharynx"
+2003,regs,Male,199,C00-C14,"Lip, Oral Cavity and Pharynx"
+2004,regs,Female,199,D45-D47,#N/A
+2004,regs,Male,199,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,regs,Female,199,"C64-C66, C68",Kidney and other urinary
+2016,regs,Male,199,D45-D47,#N/A
+2006,deaths,Female,199,C25,Pancreas
+2010,deaths,Male,199,C43,Melanoma
+2014,deaths,AllSex,199,C90,Myeloma
+2005,regs,Male,198,C25,Pancreas
+2007,regs,Male,198,C15,Oesophagus
+2008,regs,Female,198,"C64-C66, C68",Kidney and other urinary
+2009,regs,Male,198,D45-D47,#N/A
+2008,deaths,AllSex,198,C56-C57,Ovary
+2008,deaths,Female,198,C56-C57,Ovary
+2012,deaths,Male,198,C91-C95,Leukaemia
+2005,deaths,AllSex,197,C56-C57,Ovary
+2005,deaths,Female,197,C56-C57,Ovary
+2006,deaths,AllSex,197,C67,Bladder
+2008,deaths,Female,197,C25,Pancreas
+2012,regs,Male,196,D45-D47,#N/A
+2005,deaths,AllSex,196,C15,Oesophagus
+2009,deaths,AllSex,196,"C64-C66, C68",Kidney and other urinary
+2013,deaths,Male,196,"C82-C86, C96",Non-Hodgkin lymphoma
+2005,regs,Male,195,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,regs,Male,195,C15,Oesophagus
+1996,deaths,AllSex,195,C43,Melanoma
+2001,deaths,Male,195,C16,Stomach
+2012,deaths,AllSex,195,C56-C57,Ovary
+2012,deaths,Female,195,C56-C57,Ovary
+2005,regs,Female,194,D45-D47,#N/A
+2008,regs,Male,194,C15,Oesophagus
+2004,deaths,AllSex,194,C56-C57,Ovary
+2004,deaths,Female,194,C56-C57,Ovary
+2007,deaths,AllSex,194,"C64-C66, C68",Kidney and other urinary
+2010,regs,Male,193,C22,Liver and intrahepatic bile ducts
+2011,deaths,Male,193,C16,Stomach
+2015,deaths,Male,193,C22,Liver and intrahepatic bile ducts
+2009,regs,Female,192,"C64-C66, C68",Kidney and other urinary
+2012,regs,Female,192,"C64-C66, C68",Kidney and other urinary
+1996,deaths,AllSex,192,C15,Oesophagus
+2008,deaths,AllSex,192,"C64-C66, C68",Kidney and other urinary
+2011,deaths,AllSex,192,C90,Myeloma
+2001,regs,AllSex,191,C53,Cervix
+2001,regs,Female,191,C53,Cervix
+2003,deaths,AllSex,191,"C64-C66, C68",Kidney and other urinary
+2011,deaths,Male,191,C91-C95,Leukaemia
+2004,regs,AllSex,190,C73,Thyroid
+2011,regs,Female,190,C73,Thyroid
+2008,deaths,AllSex,190,C22,Liver and intrahepatic bile ducts
+2013,deaths,Male,190,C91-C95,Leukaemia
+1996,regs,AllSex,189,C15,Oesophagus
+2007,regs,Female,189,C73,Thyroid
+2002,deaths,Male,189,C16,Stomach
+2000,regs,Male,188,C00-C14,"Lip, Oral Cavity and Pharynx"
+2003,regs,AllSex,188,C22,Liver and intrahepatic bile ducts
+2004,regs,Female,188,C25,Pancreas
+2010,regs,Female,188,C73,Thyroid
+2010,regs,Male,188,C71,Brain
+2003,regs,AllSex,187,C73,Thyroid
+2010,regs,Male,187,D45-D47,#N/A
+2011,regs,Male,187,C15,Oesophagus
+2015,regs,Male,187,D45-D47,#N/A
+1996,deaths,AllSex,187,C67,Bladder
+2000,deaths,AllSex,187,C15,Oesophagus
+2000,deaths,AllSex,186,C56-C57,Ovary
+2000,deaths,Female,186,C56-C57,Ovary
+2000,deaths,Male,186,C16,Stomach
+2004,deaths,Male,186,C16,Stomach
+2013,regs,Male,185,C71,Brain
+2014,regs,Male,185,C71,Brain
+2001,deaths,AllSex,185,C56-C57,Ovary
+2001,deaths,Female,185,C56-C57,Ovary
+2002,deaths,AllSex,185,C15,Oesophagus
+2005,deaths,AllSex,185,C67,Bladder
+2014,deaths,Male,185,C15,Oesophagus
+2016,deaths,Male,185,C22,Liver and intrahepatic bile ducts
+2008,regs,Female,184,C73,Thyroid
+2011,regs,Male,184,C71,Brain
+2002,deaths,AllSex,184,C67,Bladder
+2007,deaths,Male,184,C16,Stomach
+2002,regs,AllSex,183,C53,Cervix
+2002,regs,Female,183,C53,Cervix
+1998,deaths,Male,183,C16,Stomach
+2004,deaths,AllSex,183,"C64-C66, C68",Kidney and other urinary
+2004,deaths,Female,183,C25,Pancreas
+2005,deaths,AllSex,183,"C64-C66, C68",Kidney and other urinary
+2012,deaths,Male,183,C71,Brain
+2001,regs,Male,181,C00-C14,"Lip, Oral Cavity and Pharynx"
+2004,regs,Female,181,"C64-C66, C68",Kidney and other urinary
+2011,regs,Male,181,C90,Myeloma
+2012,regs,Male,181,C71,Brain
+1999,deaths,Male,181,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,deaths,Male,181,C16,Stomach
+2004,regs,Male,180,C15,Oesophagus
+2004,regs,Male,180,C25,Pancreas
+2006,regs,Male,180,C25,Pancreas
+2010,regs,AllSex,180,C53,Cervix
+2010,regs,Female,180,C53,Cervix
+2004,deaths,AllSex,180,C67,Bladder
+2005,deaths,Male,180,C25,Pancreas
+2013,deaths,AllSex,180,C67,Bladder
+2014,deaths,Male,180,C91-C95,Leukaemia
+2016,deaths,Male,180,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,regs,Female,179,C25,Pancreas
+2002,regs,Male,179,C71,Brain
+2003,regs,AllSex,179,C53,Cervix
+2003,regs,Female,179,C53,Cervix
+1996,deaths,AllSex,179,C56-C57,Ovary
+1996,deaths,Female,179,C56-C57,Ovary
+2002,deaths,AllSex,179,C56-C57,Ovary
+2002,deaths,Female,179,C56-C57,Ovary
+2016,deaths,Male,179,C16,Stomach
+1998,deaths,Female,178,C25,Pancreas
+2007,deaths,Male,178,C43,Melanoma
+2012,deaths,Male,178,C16,Stomach
+1997,regs,Male,177,C00-C14,"Lip, Oral Cavity and Pharynx"
+2003,regs,Female,177,C25,Pancreas
+2007,regs,Female,177,"C64-C66, C68",Kidney and other urinary
+2009,regs,Male,177,C22,Liver and intrahepatic bile ducts
+2010,regs,Male,177,C90,Myeloma
+1998,deaths,AllSex,177,C56-C57,Ovary
+1998,deaths,Female,177,C56-C57,Ovary
+2003,deaths,Male,177,"C82-C86, C96",Non-Hodgkin lymphoma
+2007,deaths,AllSex,177,C90,Myeloma
+2013,deaths,Male,177,C16,Stomach
+2013,deaths,Male,177,C22,Liver and intrahepatic bile ducts
+1996,deaths,Male,176,C16,Stomach
+2001,deaths,AllSex,176,C67,Bladder
+2003,deaths,AllSex,176,C67,Bladder
+2008,deaths,Male,176,C25,Pancreas
+2003,regs,Male,175,C25,Pancreas
+2016,regs,Female,175,C00-C14,"Lip, Oral Cavity and Pharynx"
+2016,regs,Male,175,C15,Oesophagus
+1998,deaths,AllSex,175,"C64-C66, C68",Kidney and other urinary
+2010,deaths,AllSex,175,C67,Bladder
+2016,deaths,Male,175,C71,Brain
+2008,regs,AllSex,174,C53,Cervix
+2008,regs,Female,174,C53,Cervix
+2014,regs,Female,174,C90,Myeloma
+2003,deaths,Male,174,C43,Melanoma
+2011,deaths,Male,174,C15,Oesophagus
+2013,deaths,AllSex,174,C90,Myeloma
+2015,deaths,Male,174,C15,Oesophagus
+2009,regs,Male,173,C15,Oesophagus
+2015,regs,AllSex,173,C62,Testis
+2015,regs,Male,173,C62,Testis
+2015,regs,Male,173,C71,Brain
+2002,deaths,AllSex,173,"C64-C66, C68",Kidney and other urinary
+2003,deaths,AllSex,173,C56-C57,Ovary
+2003,deaths,Female,173,C56-C57,Ovary
+2004,deaths,AllSex,173,C22,Liver and intrahepatic bile ducts
+2005,deaths,Female,173,C25,Pancreas
+2006,deaths,Male,173,C43,Melanoma
+2008,deaths,Male,173,C16,Stomach
+1999,regs,AllSex,172,C73,Thyroid
+2016,regs,AllSex,172,C53,Cervix
+2016,regs,Female,172,C53,Cervix
+1999,deaths,AllSex,172,C15,Oesophagus
+2004,deaths,Male,172,C25,Pancreas
+2006,deaths,Male,172,C91-C95,Leukaemia
+2007,deaths,Male,172,C91-C95,Leukaemia
+2010,deaths,Male,172,C91-C95,Leukaemia
+2014,deaths,Male,172,"C82-C86, C96",Non-Hodgkin lymphoma
+1998,regs,Male,171,C25,Pancreas
+1999,regs,Male,171,C25,Pancreas
+2005,regs,Female,171,"C64-C66, C68",Kidney and other urinary
+2011,regs,AllSex,171,C53,Cervix
+2011,regs,Female,171,C53,Cervix
+2015,deaths,AllSex,171,C90,Myeloma
+1999,deaths,AllSex,170,C56-C57,Ovary
+1999,deaths,Female,170,C56-C57,Ovary
+2001,deaths,Male,170,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,deaths,Male,170,C15,Oesophagus
+2004,regs,AllSex,169,C22,Liver and intrahepatic bile ducts
+1998,deaths,AllSex,169,C67,Bladder
+2007,deaths,AllSex,169,C67,Bladder
+2015,deaths,Male,169,C67,Bladder
+1997,regs,AllSex,168,C73,Thyroid
+1998,regs,Female,168,C16,Stomach
+2016,regs,Female,168,C90,Myeloma
+1998,deaths,Female,168,"C82-C86, C96",Non-Hodgkin lymphoma
+1999,deaths,AllSex,168,"C64-C66, C68",Kidney and other urinary
+1999,deaths,AllSex,168,C67,Bladder
+2000,deaths,Male,168,C25,Pancreas
+2006,deaths,Male,168,"C82-C86, C96",Non-Hodgkin lymphoma
+2000,regs,Female,167,C25,Pancreas
+2002,regs,AllSex,167,C62,Testis
+2002,regs,Male,167,C00-C14,"Lip, Oral Cavity and Pharynx"
+2002,regs,Male,167,C62,Testis
+2006,regs,Female,167,C73,Thyroid
+2009,regs,AllSex,167,C62,Testis
+2009,regs,Male,167,C62,Testis
+2012,regs,AllSex,167,C53,Cervix
+2012,regs,Female,167,C53,Cervix
+2006,deaths,AllSex,167,"C64-C66, C68",Kidney and other urinary
+2000,regs,Female,166,C67,Bladder
+2002,regs,AllSex,166,C22,Liver and intrahepatic bile ducts
+2003,regs,Male,166,D45-D47,#N/A
+2005,regs,AllSex,166,C73,Thyroid
+2007,regs,Male,166,C22,Liver and intrahepatic bile ducts
+2013,regs,Female,166,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,deaths,Female,166,C25,Pancreas
+1997,deaths,AllSex,166,C56-C57,Ovary
+1997,deaths,Female,166,C56-C57,Ovary
+2010,deaths,AllSex,166,C90,Myeloma
+2014,deaths,Male,166,C22,Liver and intrahepatic bile ducts
+1996,regs,Male,165,C00-C14,"Lip, Oral Cavity and Pharynx"
+2002,regs,Female,165,C25,Pancreas
+1998,deaths,Male,165,C25,Pancreas
+2000,deaths,Male,165,C91-C95,Leukaemia
+2002,regs,Male,164,C90,Myeloma
+2006,regs,AllSex,164,C62,Testis
+2006,regs,Male,164,C62,Testis
+2010,regs,AllSex,164,C62,Testis
+2010,regs,Male,164,C62,Testis
+2007,deaths,Male,164,C15,Oesophagus
+2007,deaths,Male,164,"C82-C86, C96",Non-Hodgkin lymphoma
+2008,deaths,AllSex,164,C90,Myeloma
+2009,deaths,Male,164,C16,Stomach
+2011,deaths,Male,164,C22,Liver and intrahepatic bile ducts
+1998,regs,Female,163,C25,Pancreas
+2000,regs,AllSex,163,C73,Thyroid
+2007,regs,AllSex,163,C53,Cervix
+2007,regs,Female,163,C53,Cervix
+2009,regs,Male,163,C71,Brain
+2000,deaths,Male,163,"C82-C86, C96",Non-Hodgkin lymphoma
+2009,deaths,Male,163,C15,Oesophagus
+1996,regs,Male,162,C71,Brain
+1997,regs,Female,162,C25,Pancreas
+2001,regs,Male,162,C25,Pancreas
+2006,regs,Male,162,C15,Oesophagus
+2006,regs,Male,162,C71,Brain
+1998,deaths,AllSex,162,C15,Oesophagus
+1997,regs,Female,161,"C64-C66, C68",Kidney and other urinary
+1998,regs,AllSex,161,C15,Oesophagus
+2005,regs,Male,161,C71,Brain
+2006,regs,Male,161,C22,Liver and intrahepatic bile ducts
+2008,regs,Male,161,C22,Liver and intrahepatic bile ducts
+2009,regs,Male,161,C90,Myeloma
+2016,regs,Female,161,D45-D47,#N/A
+2006,deaths,Male,161,C16,Stomach
+2012,deaths,Male,161,C15,Oesophagus
+2015,deaths,Male,161,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,regs,Female,160,C16,Stomach
+2003,regs,Male,160,C15,Oesophagus
+2001,deaths,AllSex,160,"C64-C66, C68",Kidney and other urinary
+2002,regs,Male,159,C25,Pancreas
+2013,regs,AllSex,159,C53,Cervix
+2013,regs,Female,159,C53,Cervix
+1999,deaths,Male,159,C91-C95,Leukaemia
+2000,deaths,AllSex,159,C67,Bladder
+2005,deaths,Male,159,C91-C95,Leukaemia
+2000,regs,Male,158,C71,Brain
+2004,regs,AllSex,158,C53,Cervix
+2004,regs,Female,158,C16,Stomach
+2004,regs,Female,158,C53,Cervix
+2006,regs,AllSex,158,C53,Cervix
+2006,regs,Female,158,C53,Cervix
+2003,deaths,Female,158,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,deaths,Male,158,C91-C95,Leukaemia
+2010,deaths,Male,158,C16,Stomach
+2000,regs,Male,157,C25,Pancreas
+2007,regs,Female,157,D45-D47,#N/A
+1997,deaths,AllSex,157,C67,Bladder
+1997,deaths,AllSex,157,C90,Myeloma
+2008,deaths,Male,157,C91-C95,Leukaemia
+2005,regs,AllSex,156,C53,Cervix
+2005,regs,Female,156,C53,Cervix
+2015,regs,Female,156,C90,Myeloma
+1997,deaths,Male,156,C16,Stomach
+2001,deaths,Male,156,C43,Melanoma
+2005,deaths,Male,156,C43,Melanoma
+2006,deaths,Male,156,C25,Pancreas
+2012,deaths,AllSex,156,C90,Myeloma
+2016,deaths,Male,156,"C64-C66, C68",Kidney and other urinary
+2006,regs,Female,155,D45-D47,#N/A
+2000,deaths,Male,155,C43,Melanoma
+2005,deaths,Male,155,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,Male,155,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,deaths,Male,155,"C64-C66, C68",Kidney and other urinary
+2016,deaths,Male,155,C67,Bladder
+2001,regs,Female,154,C16,Stomach
+2003,regs,Female,154,"C64-C66, C68",Kidney and other urinary
+2005,regs,Male,154,C22,Liver and intrahepatic bile ducts
+2007,regs,Male,154,C90,Myeloma
+2003,deaths,AllSex,154,C90,Myeloma
+2005,deaths,AllSex,154,C90,Myeloma
+2008,deaths,Male,154,C15,Oesophagus
+2012,deaths,Male,154,C22,Liver and intrahepatic bile ducts
+2013,deaths,Male,154,"C64-C66, C68",Kidney and other urinary
+1998,regs,Male,153,C71,Brain
+2002,regs,AllSex,153,C73,Thyroid
+2002,regs,Male,153,C15,Oesophagus
+1998,deaths,AllSex,153,C90,Myeloma
+2002,deaths,Female,153,C25,Pancreas
+2003,deaths,Female,153,C25,Pancreas
+2003,deaths,Male,153,C25,Pancreas
+2012,deaths,Male,153,"C82-C86, C96",Non-Hodgkin lymphoma
+1999,regs,Female,152,"C64-C66, C68",Kidney and other urinary
+2009,regs,Female,152,C73,Thyroid
+2002,deaths,AllSex,152,C22,Liver and intrahepatic bile ducts
+2004,deaths,Female,152,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,deaths,Male,152,C43,Melanoma
+1997,regs,AllSex,151,C22,Liver and intrahepatic bile ducts
+1997,regs,Male,151,C25,Pancreas
+1998,regs,Female,151,C67,Bladder
+2001,regs,AllSex,151,C22,Liver and intrahepatic bile ducts
+2002,regs,Female,151,"C64-C66, C68",Kidney and other urinary
+2011,regs,AllSex,151,C62,Testis
+2011,regs,Male,151,C62,Testis
+2015,regs,Female,151,C00-C14,"Lip, Oral Cavity and Pharynx"
+2015,regs,Female,151,C16,Stomach
+2015,deaths,Male,151,C16,Stomach
+1998,regs,AllSex,150,C73,Thyroid
+2001,regs,Female,150,C25,Pancreas
+2014,regs,AllSex,150,C62,Testis
+2014,regs,Male,150,C62,Testis
+1998,deaths,Male,150,"C82-C86, C96",Non-Hodgkin lymphoma
+2002,deaths,Male,150,C25,Pancreas
+2008,deaths,Male,150,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,deaths,Male,150,C67,Bladder
+2000,regs,Male,149,C15,Oesophagus
+2014,regs,Female,149,C00-C14,"Lip, Oral Cavity and Pharynx"
+1999,deaths,Female,149,C25,Pancreas
+1999,deaths,Male,149,C25,Pancreas
+2001,deaths,AllSex,149,C90,Myeloma
+2002,deaths,Male,149,C43,Melanoma
+1996,regs,Female,148,C16,Stomach
+1999,regs,Female,148,C67,Bladder
+2001,regs,Male,148,C15,Oesophagus
+2005,regs,Male,148,C15,Oesophagus
+2008,regs,AllSex,148,C62,Testis
+2008,regs,Male,148,C62,Testis
+2008,regs,Male,148,C90,Myeloma
+2010,regs,Female,148,D45-D47,#N/A
+1996,deaths,AllSex,148,"C64-C66, C68",Kidney and other urinary
+2001,deaths,Female,148,C25,Pancreas
+2003,deaths,AllSex,148,C22,Liver and intrahepatic bile ducts
+2004,deaths,AllSex,148,C90,Myeloma
+2005,deaths,Female,148,C91-C95,Leukaemia
+2006,deaths,Male,148,C71,Brain
+2009,deaths,Male,148,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,deaths,Female,148,C91-C95,Leukaemia
+2001,regs,Female,147,C67,Bladder
+2002,regs,Female,147,C67,Bladder
+2004,regs,Male,147,C71,Brain
+2006,regs,Male,147,C90,Myeloma
+2007,regs,AllSex,147,C62,Testis
+2007,regs,Male,147,C62,Testis
+2006,deaths,AllSex,147,C90,Myeloma
+2015,deaths,Male,147,"C64-C66, C68",Kidney and other urinary
+1996,regs,Male,146,C25,Pancreas
+2000,regs,AllSex,146,C62,Testis
+2000,regs,Male,146,C62,Testis
+2001,regs,Male,146,C71,Brain
+2001,regs,Male,146,C90,Myeloma
+2005,regs,AllSex,146,C62,Testis
+2005,regs,Male,146,C62,Testis
+2014,regs,Female,146,C16,Stomach
+1997,deaths,Female,146,"C82-C86, C96",Non-Hodgkin lymphoma
+1999,deaths,Female,146,"C82-C86, C96",Non-Hodgkin lymphoma
+1999,deaths,Male,146,C43,Melanoma
+2002,deaths,Female,146,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,deaths,Male,146,C91-C95,Leukaemia
+2006,deaths,Female,146,"C82-C86, C96",Non-Hodgkin lymphoma
+2006,deaths,Male,146,C67,Bladder
+2013,deaths,Male,146,C71,Brain
+2014,deaths,Female,146,C91-C95,Leukaemia
+1998,regs,AllSex,145,C22,Liver and intrahepatic bile ducts
+1999,regs,AllSex,145,C22,Liver and intrahepatic bile ducts
+1999,regs,Male,145,C15,Oesophagus
+2001,regs,Female,145,"C64-C66, C68",Kidney and other urinary
+2011,regs,Female,145,C16,Stomach
+2012,regs,AllSex,145,C62,Testis
+2012,regs,Female,145,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,regs,Male,145,C62,Testis
+2015,regs,AllSex,145,C53,Cervix
+2015,regs,Female,145,C53,Cervix
+1997,deaths,Female,145,C25,Pancreas
+2004,deaths,Female,145,C91-C95,Leukaemia
+2009,deaths,Male,145,C91-C95,Leukaemia
+2015,deaths,AllSex,145,C00-C14,"Lip, Oral Cavity and Pharynx"
+2015,deaths,Female,145,C91-C95,Leukaemia
+2016,deaths,Male,145,C15,Oesophagus
+2000,regs,Female,144,C16,Stomach
+2002,regs,Female,144,C16,Stomach
+2015,regs,Female,144,C71,Brain
+1996,deaths,Male,144,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,deaths,AllSex,144,"C64-C66, C68",Kidney and other urinary
+1997,deaths,Male,144,C15,Oesophagus
+1997,deaths,Male,144,"C82-C86, C96",Non-Hodgkin lymphoma
+2000,deaths,Female,144,C25,Pancreas
+2007,deaths,Male,144,C22,Liver and intrahepatic bile ducts
+2009,deaths,Male,144,C67,Bladder
+2014,deaths,Male,144,C71,Brain
+2007,regs,Female,143,C16,Stomach
+2000,deaths,AllSex,143,"C64-C66, C68",Kidney and other urinary
+2002,deaths,AllSex,143,C90,Myeloma
+2005,deaths,Male,143,C16,Stomach
+2009,deaths,Female,143,"C82-C86, C96",Non-Hodgkin lymphoma
+2014,deaths,AllSex,143,C00-C14,"Lip, Oral Cavity and Pharynx"
+2015,deaths,AllSex,143,C54-C55,Uterus
+2015,deaths,Female,143,C54-C55,Uterus
+1997,regs,Male,142,C71,Brain
+2001,regs,AllSex,142,C73,Thyroid
+2003,regs,Female,142,C16,Stomach
+2005,regs,Female,142,C16,Stomach
+2012,regs,Female,142,C16,Stomach
+2014,regs,AllSex,142,C53,Cervix
+2014,regs,Female,142,C53,Cervix
+2016,regs,AllSex,142,C62,Testis
+2016,regs,Female,142,C16,Stomach
+2016,regs,Male,142,C62,Testis
+2000,deaths,AllSex,142,C22,Liver and intrahepatic bile ducts
+2003,deaths,Male,142,C71,Brain
+2007,deaths,Female,142,"C82-C86, C96",Non-Hodgkin lymphoma
+2010,deaths,Male,142,C22,Liver and intrahepatic bile ducts
+2010,deaths,Male,142,C71,Brain
+2016,deaths,AllSex,142,C00-C14,"Lip, Oral Cavity and Pharynx"
+2000,regs,AllSex,141,C22,Liver and intrahepatic bile ducts
+2004,regs,Female,141,C67,Bladder
+2009,regs,AllSex,141,C53,Cervix
+2009,regs,Female,141,C53,Cervix
+2013,regs,Female,141,C16,Stomach
+1996,deaths,Male,141,C91-C95,Leukaemia
+2012,deaths,Male,141,"C64-C66, C68",Kidney and other urinary
+2014,deaths,Female,141,C43,Melanoma
+1996,regs,Female,140,C67,Bladder
+1999,regs,Male,140,C71,Brain
+2008,regs,Female,140,D45-D47,#N/A
+2013,regs,Female,140,C71,Brain
+1998,deaths,Male,140,C43,Melanoma
+2005,deaths,AllSex,140,C22,Liver and intrahepatic bile ducts
+1996,regs,AllSex,139,C22,Liver and intrahepatic bile ducts
+1997,regs,AllSex,139,C62,Testis
+1997,regs,Male,139,C62,Testis
+1999,regs,Female,139,C25,Pancreas
+2010,regs,Female,139,C90,Myeloma
+1996,deaths,Female,139,"C82-C86, C96",Non-Hodgkin lymphoma
+1997,deaths,Male,139,C25,Pancreas
+2010,deaths,Male,139,C15,Oesophagus
+1997,regs,Female,138,C67,Bladder
+1999,regs,Female,138,C73,Thyroid
+2004,regs,AllSex,138,C62,Testis
+2004,regs,Male,138,C62,Testis
+2005,regs,Male,138,C90,Myeloma
+2012,regs,Female,138,C90,Myeloma
+2013,regs,AllSex,138,C62,Testis
+2013,regs,Male,138,C62,Testis
+2007,regs,Male,137,C71,Brain
+2008,regs,Male,137,C71,Brain
+2009,regs,Female,137,D45-D47,#N/A
+2001,deaths,Male,137,C25,Pancreas
+2002,deaths,Male,137,"C82-C86, C96",Non-Hodgkin lymphoma
+2010,deaths,Male,137,"C64-C66, C68",Kidney and other urinary
+2015,deaths,Male,137,C71,Brain
+1999,regs,Female,136,C16,Stomach
+1999,regs,Male,136,C90,Myeloma
+2003,regs,Female,136,C67,Bladder
+2003,regs,Male,136,C71,Brain
+2010,regs,Female,136,C16,Stomach
+2001,deaths,Male,136,C91-C95,Leukaemia
+2002,deaths,Male,136,C71,Brain
+2004,deaths,Male,136,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,Male,136,C71,Brain
+2013,deaths,AllSex,136,C00-C14,"Lip, Oral Cavity and Pharynx"
+2016,deaths,Female,136,"C82-C86, C96",Non-Hodgkin lymphoma
+2003,regs,AllSex,135,C62,Testis
+2003,regs,Male,135,C62,Testis
+2007,regs,Female,135,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,deaths,Male,135,C91-C95,Leukaemia
+1999,deaths,AllSex,135,C90,Myeloma
+2000,deaths,AllSex,135,C90,Myeloma
+2001,deaths,Male,135,C15,Oesophagus
+2010,deaths,Male,135,"C82-C86, C96",Non-Hodgkin lymphoma
+2004,regs,Female,134,C73,Thyroid
+2006,regs,Female,134,"C64-C66, C68",Kidney and other urinary
+2007,deaths,Female,134,C91-C95,Leukaemia
+2008,deaths,Male,134,C67,Bladder
+2016,deaths,Female,134,C16,Stomach
+2000,regs,Male,133,C90,Myeloma
+2006,regs,Female,133,C16,Stomach
+2010,regs,Female,133,C71,Brain
+2013,regs,Female,133,C90,Myeloma
+2016,regs,Female,133,C71,Brain
+1998,deaths,Male,133,C91-C95,Leukaemia
+2000,deaths,AllSex,133,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,Female,133,"C82-C86, C96",Non-Hodgkin lymphoma
+2012,deaths,Male,133,C67,Bladder
+1997,regs,Male,132,C15,Oesophagus
+1998,regs,Male,132,C90,Myeloma
+2001,regs,AllSex,132,C62,Testis
+2001,regs,Male,132,C62,Testis
+2003,regs,Male,132,C22,Liver and intrahepatic bile ducts
+2012,regs,Female,132,D45-D47,#N/A
+2003,deaths,AllSex,132,C00-C14,"Lip, Oral Cavity and Pharynx"
+2004,deaths,Male,132,C15,Oesophagus
+2005,deaths,Male,132,C71,Brain
+2006,deaths,Male,132,C22,Liver and intrahepatic bile ducts
+2012,deaths,Female,132,C43,Melanoma
+2016,deaths,AllSex,132,C54-C55,Uterus
+2016,deaths,Female,132,C54-C55,Uterus
+2009,regs,Female,131,C90,Myeloma
+1996,deaths,Male,131,C25,Pancreas
+2003,regs,Female,130,C73,Thyroid
+2007,regs,Female,130,C71,Brain
+2008,regs,Female,130,C16,Stomach
+2011,regs,Female,130,D45-D47,#N/A
+1999,deaths,Male,130,C71,Brain
+2001,deaths,Female,130,"C82-C86, C96",Non-Hodgkin lymphoma
+2001,deaths,Male,130,C71,Brain
+2003,deaths,Male,130,C15,Oesophagus
+2004,deaths,Male,130,C71,Brain
+2005,deaths,Male,130,C15,Oesophagus
+2008,deaths,Female,130,C91-C95,Leukaemia
+2009,deaths,Male,130,C22,Liver and intrahepatic bile ducts
+2009,deaths,Male,130,"C64-C66, C68",Kidney and other urinary
+2004,regs,Male,129,C90,Myeloma
+2009,regs,Female,129,C16,Stomach
+2006,deaths,Male,129,C15,Oesophagus
+1996,regs,Female,128,"C64-C66, C68",Kidney and other urinary
+1998,regs,AllSex,128,C62,Testis
+1998,regs,Male,128,C62,Testis
+2012,regs,Female,128,C71,Brain
+1999,deaths,Female,128,C16,Stomach
+2000,deaths,Male,128,C71,Brain
+2002,deaths,Male,128,C67,Bladder
+2002,deaths,Male,128,C91-C95,Leukaemia
+2010,deaths,Female,128,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,Male,128,"C64-C66, C68",Kidney and other urinary
+1999,regs,AllSex,127,C62,Testis
+1999,regs,Male,127,C62,Testis
+2010,regs,Female,127,C00-C14,"Lip, Oral Cavity and Pharynx"
+1999,deaths,AllSex,127,C22,Liver and intrahepatic bile ducts
+2000,deaths,Male,127,C15,Oesophagus
+2006,deaths,Female,127,C91-C95,Leukaemia
+2008,deaths,AllSex,127,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,AllSex,127,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,Female,127,C91-C95,Leukaemia
+2000,regs,Female,126,"C64-C66, C68",Kidney and other urinary
+2005,deaths,AllSex,126,C00-C14,"Lip, Oral Cavity and Pharynx"
+2010,deaths,Male,126,C67,Bladder
+2011,deaths,Male,126,C67,Bladder
+2013,deaths,Female,126,C91-C95,Leukaemia
+2013,deaths,Male,126,C67,Bladder
+2003,regs,Female,125,D45-D47,#N/A
+2004,regs,Male,125,C22,Liver and intrahepatic bile ducts
+2011,regs,Female,125,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,deaths,Male,125,C71,Brain
+2010,deaths,Female,125,C43,Melanoma
+1998,regs,Female,124,"C64-C66, C68",Kidney and other urinary
+1996,deaths,Male,124,C15,Oesophagus
+1998,deaths,AllSex,124,C22,Liver and intrahepatic bile ducts
+2004,deaths,Male,124,C67,Bladder
+2007,deaths,Male,124,C71,Brain
+2008,deaths,Female,124,"C82-C86, C96",Non-Hodgkin lymphoma
+2008,deaths,Male,124,C22,Liver and intrahepatic bile ducts
+2009,deaths,AllSex,124,C00-C14,"Lip, Oral Cavity and Pharynx"
+2009,deaths,AllSex,124,C90,Myeloma
+2013,deaths,Female,124,C43,Melanoma
+1996,regs,AllSex,123,C62,Testis
+1996,regs,Male,123,C62,Testis
+2013,regs,Female,123,D45-D47,#N/A
+2015,regs,Female,123,D45-D47,#N/A
+1998,deaths,Female,123,C91-C95,Leukaemia
+2000,deaths,Female,123,C16,Stomach
+2007,deaths,AllSex,123,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,deaths,Female,123,C16,Stomach
+2015,deaths,Female,123,C43,Melanoma
+1997,deaths,AllSex,122,C22,Liver and intrahepatic bile ducts
+2002,deaths,AllSex,122,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,deaths,Male,122,"C64-C66, C68",Kidney and other urinary
+2013,deaths,AllSex,122,C54-C55,Uterus
+2013,deaths,Female,122,C54-C55,Uterus
+1996,regs,Female,121,C71,Brain
+1996,regs,Male,121,C15,Oesophagus
+1996,deaths,AllSex,121,C90,Myeloma
+1996,deaths,Female,121,C16,Stomach
+1997,deaths,Male,121,C43,Melanoma
+2004,deaths,Male,121,"C64-C66, C68",Kidney and other urinary
+2005,deaths,Male,121,C67,Bladder
+2009,deaths,Female,121,C91-C95,Leukaemia
+2012,deaths,AllSex,121,C54-C55,Uterus
+2012,deaths,Female,121,C54-C55,Uterus
+2012,deaths,Female,121,"C82-C86, C96",Non-Hodgkin lymphoma
+2013,deaths,Female,121,"C82-C86, C96",Non-Hodgkin lymphoma
+1998,deaths,Female,120,C16,Stomach
+2001,deaths,AllSex,120,C22,Liver and intrahepatic bile ducts
+2003,deaths,Male,120,C67,Bladder
+2016,deaths,Female,120,C43,Melanoma
+2016,deaths,Male,119,C90,Myeloma
+1996,regs,Male,118,C90,Myeloma
+2003,regs,Male,118,C90,Myeloma
+2002,deaths,Male,118,C15,Oesophagus
+2006,deaths,AllSex,118,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,deaths,Male,118,C67,Bladder
+2016,deaths,Female,118,C91-C95,Leukaemia
+1998,regs,Female,117,C73,Thyroid
+2000,regs,Female,117,C73,Thyroid
+2003,regs,Female,117,C00-C14,"Lip, Oral Cavity and Pharynx"
+2008,regs,Female,117,C90,Myeloma
+2013,regs,AllSex,117,C81,Hodgkin lymphoma
+2003,deaths,Male,117,"C64-C66, C68",Kidney and other urinary
+2004,deaths,Male,117,C22,Liver and intrahepatic bile ducts
+2009,deaths,Male,117,C71,Brain
+2010,deaths,Female,117,C91-C95,Leukaemia
+1996,regs,AllSex,116,C73,Thyroid
+1997,regs,Female,116,C73,Thyroid
+2002,regs,Female,116,C73,Thyroid
+2003,regs,Female,116,C71,Brain
+2006,regs,Female,116,C90,Myeloma
+2008,regs,Female,116,C67,Bladder
+2009,regs,Female,116,C71,Brain
+2014,regs,Female,116,C67,Bladder
+1998,deaths,Male,116,C67,Bladder
+2001,deaths,Female,116,C91-C95,Leukaemia
+2010,deaths,AllSex,116,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,Female,116,C43,Melanoma
+2013,deaths,Female,116,C71,Brain
+2004,regs,Female,115,C71,Brain
+2005,regs,Female,115,C73,Thyroid
+2006,regs,Female,115,C00-C14,"Lip, Oral Cavity and Pharynx"
+2008,regs,Female,115,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,regs,Female,115,C90,Myeloma
+2014,regs,Female,115,C22,Liver and intrahepatic bile ducts
+2014,regs,Female,115,C71,Brain
+2004,deaths,Female,115,C16,Stomach
+2005,deaths,Male,115,"C64-C66, C68",Kidney and other urinary
+2008,deaths,Female,115,C43,Melanoma
+2008,deaths,Male,115,"C64-C66, C68",Kidney and other urinary
+2011,deaths,Male,115,C90,Myeloma
+2012,deaths,AllSex,115,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,deaths,AllSex,115,C54-C55,Uterus
+2014,deaths,Female,115,C54-C55,Uterus
+2011,regs,Female,114,C71,Brain
+2015,regs,Female,114,C67,Bladder
+1999,deaths,AllSex,114,C00-C14,"Lip, Oral Cavity and Pharynx"
+1999,deaths,Male,114,C67,Bladder
+2006,deaths,Female,114,C43,Melanoma
+2007,deaths,Female,114,C43,Melanoma
+2007,regs,Female,113,C90,Myeloma
+1996,deaths,AllSex,113,C00-C14,"Lip, Oral Cavity and Pharynx"
+1998,deaths,Male,113,C71,Brain
+1999,deaths,Male,113,C15,Oesophagus
+2001,deaths,AllSex,113,C00-C14,"Lip, Oral Cavity and Pharynx"
+2005,deaths,Female,113,C16,Stomach
+2005,deaths,Female,113,C43,Melanoma
+2007,deaths,Female,113,C16,Stomach
+2009,deaths,Female,113,C43,Melanoma
+2011,deaths,Female,113,C71,Brain
+2014,deaths,Male,113,C90,Myeloma
+1997,regs,Female,112,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,regs,Male,112,C90,Myeloma
+2015,regs,Female,112,C22,Liver and intrahepatic bile ducts
+1996,deaths,Female,112,C91-C95,Leukaemia
+1996,deaths,Male,112,C67,Bladder
+1997,deaths,Female,112,C16,Stomach
+2001,deaths,Male,112,C67,Bladder
+2002,deaths,Female,112,C16,Stomach
+2006,deaths,Female,112,C16,Stomach
+2014,deaths,Female,112,"C82-C86, C96",Non-Hodgkin lymphoma
+2015,deaths,Female,112,C71,Brain
+2001,regs,Female,111,C71,Brain
+2001,regs,Female,111,C73,Thyroid
+2002,regs,Female,111,C90,Myeloma
+2002,regs,Male,111,C22,Liver and intrahepatic bile ducts
+2009,regs,Female,111,C67,Bladder
+2003,deaths,Female,111,C43,Melanoma
+2003,deaths,Female,111,C91-C95,Leukaemia
+2009,regs,Female,110,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,regs,Female,110,D45-D47,#N/A
+1997,deaths,Male,110,C67,Bladder
+2008,deaths,Female,110,C16,Stomach
+2008,regs,AllSex,109,C81,Hodgkin lymphoma
+1998,deaths,Male,109,"C64-C66, C68",Kidney and other urinary
+2003,deaths,Female,109,C16,Stomach
+2008,deaths,Male,109,C71,Brain
+1999,regs,Female,108,C00-C14,"Lip, Oral Cavity and Pharynx"
+2001,regs,Female,108,C90,Myeloma
+2008,regs,Female,108,C71,Brain
+1996,deaths,Male,108,C43,Melanoma
+2001,deaths,Female,108,C16,Stomach
+2002,deaths,Female,108,C91-C95,Leukaemia
+2005,deaths,Female,108,"C82-C86, C96",Non-Hodgkin lymphoma
+2011,deaths,AllSex,108,C54-C55,Uterus
+2011,deaths,Female,108,C54-C55,Uterus
+2015,deaths,Female,108,C16,Stomach
+2015,deaths,Female,108,"C82-C86, C96",Non-Hodgkin lymphoma
+1996,deaths,Male,107,C71,Brain
+1999,deaths,Female,107,C91-C95,Leukaemia
+2001,deaths,Male,107,"C64-C66, C68",Kidney and other urinary
+2006,deaths,Male,107,"C64-C66, C68",Kidney and other urinary
+1997,regs,Female,106,C90,Myeloma
+1998,regs,Male,106,C22,Liver and intrahepatic bile ducts
+1999,regs,Male,106,C22,Liver and intrahepatic bile ducts
+2003,regs,Female,106,C90,Myeloma
+2016,regs,Female,106,C67,Bladder
+2015,deaths,Male,106,C90,Myeloma
+2014,regs,AllSex,105,C81,Hodgkin lymphoma
+1996,deaths,AllSex,105,C22,Liver and intrahepatic bile ducts
+2009,deaths,AllSex,105,C54-C55,Uterus
+2009,deaths,Female,105,C54-C55,Uterus
+2013,deaths,Female,105,C16,Stomach
+1998,regs,Female,104,C90,Myeloma
+2006,regs,Female,104,C15,Oesophagus
+1998,deaths,Male,104,C15,Oesophagus
+1998,regs,Female,103,C71,Brain
+1998,regs,Male,103,C15,Oesophagus
+2004,regs,Female,103,C00-C14,"Lip, Oral Cavity and Pharynx"
+2009,regs,AllSex,103,C81,Hodgkin lymphoma
+2010,regs,Female,103,C67,Bladder
+2000,deaths,Male,103,C67,Bladder
+2011,deaths,Female,103,C16,Stomach
+2015,regs,AllSex,102,C81,Hodgkin lymphoma
+2016,regs,Female,102,C22,Liver and intrahepatic bile ducts
+1998,deaths,Female,102,C43,Melanoma
+2000,deaths,Female,102,"C82-C86, C96",Non-Hodgkin lymphoma
+2002,deaths,Male,102,"C64-C66, C68",Kidney and other urinary
+2000,regs,Female,101,C90,Myeloma
+2004,regs,Female,101,C90,Myeloma
+2005,regs,Female,101,C90,Myeloma
+2000,deaths,Female,101,C71,Brain
+2004,deaths,AllSex,101,C00-C14,"Lip, Oral Cavity and Pharynx"
+2015,deaths,Male,101,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,regs,Female,100,C90,Myeloma
+1997,regs,Male,100,C22,Liver and intrahepatic bile ducts
+2002,regs,Female,100,C71,Brain
+2003,regs,Female,100,C15,Oesophagus
+2006,regs,Female,100,C71,Brain
+2010,regs,AllSex,100,C81,Hodgkin lymphoma
+2011,regs,AllSex,100,C81,Hodgkin lymphoma
+2015,regs,Male,100,C73,Thyroid
+2003,deaths,Male,100,C22,Liver and intrahepatic bile ducts
+2010,deaths,AllSex,100,C54-C55,Uterus
+2010,deaths,Female,100,C54-C55,Uterus
+2013,regs,Female,99,C67,Bladder
+2006,deaths,AllSex,99,C54-C55,Uterus
+2006,deaths,Female,99,C54-C55,Uterus
+2014,deaths,Female,99,C71,Brain
+1999,regs,Female,98,C71,Brain
+2001,regs,Female,98,C00-C14,"Lip, Oral Cavity and Pharynx"
+2002,regs,Female,98,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,regs,Female,98,C22,Liver and intrahepatic bile ducts
+2000,deaths,Female,98,C43,Melanoma
+2000,deaths,Male,98,C00-C14,"Lip, Oral Cavity and Pharynx"
+2000,deaths,Male,98,C22,Liver and intrahepatic bile ducts
+2004,deaths,Female,98,C43,Melanoma
+2007,deaths,Male,98,C90,Myeloma
+2008,deaths,Female,98,C71,Brain
+2009,deaths,Female,98,C71,Brain
+2016,deaths,Female,98,C71,Brain
+1998,regs,Female,97,C00-C14,"Lip, Oral Cavity and Pharynx"
+2005,regs,Female,97,C71,Brain
+2007,regs,Female,97,C67,Bladder
+1997,deaths,Female,97,C91-C95,Leukaemia
+1999,deaths,Male,97,"C64-C66, C68",Kidney and other urinary
+2007,deaths,AllSex,97,C54-C55,Uterus
+2007,deaths,Female,97,C54-C55,Uterus
+2010,regs,Female,96,C15,Oesophagus
+2012,regs,Female,96,C15,Oesophagus
+2014,regs,Male,96,C73,Thyroid
+2015,regs,Female,96,C15,Oesophagus
+2016,regs,Male,96,C73,Thyroid
+2007,deaths,Female,96,C71,Brain
+2008,deaths,Male,96,C90,Myeloma
+2010,deaths,Female,96,C71,Brain
+2012,deaths,Male,96,C90,Myeloma
+2016,deaths,Male,96,C00-C14,"Lip, Oral Cavity and Pharynx"
+2000,regs,Female,95,C71,Brain
+2005,regs,AllSex,95,C81,Hodgkin lymphoma
+2016,regs,AllSex,95,C81,Hodgkin lymphoma
+2000,deaths,Female,95,C91-C95,Leukaemia
+2001,deaths,Female,95,C71,Brain
+2002,deaths,AllSex,95,C54-C55,Uterus
+2002,deaths,Female,95,C54-C55,Uterus
+2005,deaths,Male,95,C22,Liver and intrahepatic bile ducts
+2010,deaths,Female,95,C16,Stomach
+2012,deaths,Female,95,C71,Brain
+2014,deaths,Female,95,C16,Stomach
+2001,regs,Male,94,C22,Liver and intrahepatic bile ducts
+2010,deaths,Male,94,C90,Myeloma
+2013,regs,Female,93,C15,Oesophagus
+1996,deaths,Female,93,C71,Brain
+2002,deaths,Male,93,C22,Liver and intrahepatic bile ducts
+2003,deaths,Male,93,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,Female,93,"C64-C66, C68",Kidney and other urinary
+1997,regs,Female,92,C71,Brain
+2011,regs,Female,92,C67,Bladder
+1997,deaths,AllSex,92,C00-C14,"Lip, Oral Cavity and Pharynx"
+2004,deaths,Female,92,C71,Brain
+2015,deaths,Female,92,C22,Liver and intrahepatic bile ducts
+1999,deaths,Male,91,C22,Liver and intrahepatic bile ducts
+2000,deaths,AllSex,91,C54-C55,Uterus
+2000,deaths,Female,91,C54-C55,Uterus
+2003,deaths,Male,91,C90,Myeloma
+2014,deaths,Male,91,C00-C14,"Lip, Oral Cavity and Pharynx"
+1999,regs,Female,90,C90,Myeloma
+2008,regs,Female,90,C15,Oesophagus
+2012,regs,AllSex,90,C81,Hodgkin lymphoma
+2012,regs,Female,90,C67,Bladder
+1998,deaths,AllSex,90,C00-C14,"Lip, Oral Cavity and Pharynx"
+1998,deaths,Female,90,C71,Brain
+2005,deaths,AllSex,90,C54-C55,Uterus
+2005,deaths,Female,90,C54-C55,Uterus
+2008,deaths,AllSex,90,C54-C55,Uterus
+2008,deaths,Female,90,C54-C55,Uterus
+2010,deaths,Male,90,C00-C14,"Lip, Oral Cavity and Pharynx"
+2013,deaths,Male,90,C90,Myeloma
+2014,deaths,Female,90,C22,Liver and intrahepatic bile ducts
+2000,regs,Male,89,C22,Liver and intrahepatic bile ducts
+2002,regs,AllSex,89,C81,Hodgkin lymphoma
+1996,deaths,Male,89,"C64-C66, C68",Kidney and other urinary
+2000,deaths,Male,89,"C64-C66, C68",Kidney and other urinary
+2013,deaths,Female,89,"C64-C66, C68",Kidney and other urinary
+2000,regs,Female,88,C00-C14,"Lip, Oral Cavity and Pharynx"
+2005,regs,Female,88,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,regs,AllSex,88,C81,Hodgkin lymphoma
+2001,deaths,Female,88,C43,Melanoma
+2005,deaths,Male,88,C00-C14,"Lip, Oral Cavity and Pharynx"
+2008,deaths,Male,88,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,Female,88,C15,Oesophagus
+1996,regs,Female,87,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,regs,Female,87,C15,Oesophagus
+1996,deaths,Female,87,C43,Melanoma
+1998,deaths,Male,87,C22,Liver and intrahepatic bile ducts
+2005,deaths,Female,87,C71,Brain
+2006,deaths,Female,87,C71,Brain
+2013,deaths,Male,87,C00-C14,"Lip, Oral Cavity and Pharynx"
+2001,regs,AllSex,86,C81,Hodgkin lymphoma
+2006,regs,AllSex,86,C81,Hodgkin lymphoma
+2009,regs,Female,86,C15,Oesophagus
+1996,deaths,Male,86,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,deaths,Male,86,C90,Myeloma
+2002,deaths,Female,86,C43,Melanoma
+2005,deaths,Male,86,C90,Myeloma
+2014,deaths,Female,86,C90,Myeloma
+2016,deaths,Female,86,C90,Myeloma
+2009,regs,Female,85,C22,Liver and intrahepatic bile ducts
+2013,regs,Female,85,C22,Liver and intrahepatic bile ducts
+2016,regs,Female,85,C15,Oesophagus
+1998,deaths,AllSex,85,C54-C55,Uterus
+1998,deaths,Female,85,C54-C55,Uterus
+1999,deaths,Female,85,C43,Melanoma
+1996,regs,Male,84,C22,Liver and intrahepatic bile ducts
+2012,regs,Female,84,C22,Liver and intrahepatic bile ducts
+2013,regs,Male,84,C73,Thyroid
+2009,deaths,Female,84,C16,Stomach
+2013,deaths,Female,84,C90,Myeloma
+1996,deaths,AllSex,83,C53,Cervix
+1996,deaths,Female,83,C53,Cervix
+2001,deaths,AllSex,83,C54-C55,Uterus
+2001,deaths,Female,83,C54-C55,Uterus
+2001,deaths,Male,83,C90,Myeloma
+2009,deaths,Male,83,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,regs,Female,82,C73,Thyroid
+2002,regs,Female,82,C15,Oesophagus
+1997,deaths,Female,82,C71,Brain
+2002,deaths,Male,82,C00-C14,"Lip, Oral Cavity and Pharynx"
+2003,deaths,Female,82,C71,Brain
+2010,deaths,Female,82,C15,Oesophagus
+2012,deaths,Female,82,C22,Liver and intrahepatic bile ducts
+2014,deaths,Female,82,"C64-C66, C68",Kidney and other urinary
+2015,deaths,Female,82,"C64-C66, C68",Kidney and other urinary
+2000,regs,Female,81,C15,Oesophagus
+2004,regs,AllSex,81,C81,Hodgkin lymphoma
+2011,regs,Female,81,C15,Oesophagus
+2014,regs,Female,81,C15,Oesophagus
+2001,deaths,Male,81,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,deaths,Male,81,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,Male,81,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,deaths,Female,80,C43,Melanoma
+2006,deaths,Male,80,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,deaths,Female,80,C15,Oesophagus
+2008,regs,Female,79,C22,Liver and intrahepatic bile ducts
+2000,deaths,Male,79,C90,Myeloma
+2002,deaths,Female,79,C71,Brain
+2006,deaths,Female,79,C15,Oesophagus
+2007,deaths,Female,79,C90,Myeloma
+2013,deaths,Female,79,C15,Oesophagus
+2016,deaths,Female,79,C22,Liver and intrahepatic bile ducts
+2006,regs,Female,78,C67,Bladder
+1997,deaths,Male,78,C22,Liver and intrahepatic bile ducts
+1997,deaths,Male,78,"C64-C66, C68",Kidney and other urinary
+2009,deaths,Female,78,C15,Oesophagus
+2014,deaths,Female,78,C15,Oesophagus
+1998,deaths,AllSex,77,C53,Cervix
+1998,deaths,Female,77,C53,Cervix
+1998,deaths,Male,77,C90,Myeloma
+2001,deaths,Female,77,C15,Oesophagus
+2003,deaths,AllSex,77,C54-C55,Uterus
+2003,deaths,Female,77,C54-C55,Uterus
+2006,deaths,Female,77,C22,Liver and intrahepatic bile ducts
+2008,deaths,Female,77,"C64-C66, C68",Kidney and other urinary
+2009,deaths,Female,77,C22,Liver and intrahepatic bile ducts
+2011,deaths,Female,77,C90,Myeloma
+2016,deaths,Female,77,"C64-C66, C68",Kidney and other urinary
+2001,regs,Female,76,C15,Oesophagus
+2003,regs,AllSex,76,C81,Hodgkin lymphoma
+2005,regs,Female,76,C22,Liver and intrahepatic bile ducts
+2007,regs,Female,76,C22,Liver and intrahepatic bile ducts
+1998,deaths,Female,76,C90,Myeloma
+2001,deaths,Male,76,C22,Liver and intrahepatic bile ducts
+2004,deaths,Male,76,C90,Myeloma
+2006,deaths,Male,76,C90,Myeloma
+2011,deaths,Female,76,C22,Liver and intrahepatic bile ducts
+1999,regs,Female,75,C15,Oesophagus
+2000,regs,AllSex,75,C81,Hodgkin lymphoma
+2005,regs,Female,75,C67,Bladder
+1996,deaths,Female,75,C67,Bladder
+1999,deaths,Female,75,C71,Brain
+1999,deaths,Male,75,C90,Myeloma
+2003,deaths,Female,75,C15,Oesophagus
+2008,deaths,Female,75,C15,Oesophagus
+2013,deaths,Female,75,C22,Liver and intrahepatic bile ducts
+2003,deaths,Female,74,"C64-C66, C68",Kidney and other urinary
+2004,deaths,Female,74,C15,Oesophagus
+2011,deaths,Female,74,C67,Bladder
+2012,deaths,Female,74,C67,Bladder
+2012,deaths,Male,74,C00-C14,"Lip, Oral Cavity and Pharynx"
+2006,regs,Female,73,C22,Liver and intrahepatic bile ducts
+2009,regs,Male,73,C73,Thyroid
+2010,regs,Female,73,C22,Liver and intrahepatic bile ducts
+2011,regs,Male,73,C73,Thyroid
+1997,deaths,AllSex,73,C53,Cervix
+1997,deaths,Female,73,C53,Cervix
+1999,deaths,AllSex,73,C54-C55,Uterus
+1999,deaths,Female,73,C54-C55,Uterus
+2002,deaths,Male,73,C90,Myeloma
+2014,deaths,Female,73,C67,Bladder
+2015,deaths,Female,73,C15,Oesophagus
+2004,regs,Female,72,C15,Oesophagus
+2005,regs,Female,72,C15,Oesophagus
+2004,deaths,Female,72,C90,Myeloma
+2007,deaths,Female,72,"C64-C66, C68",Kidney and other urinary
+2010,deaths,Female,72,C90,Myeloma
+2010,regs,Male,71,C73,Thyroid
+1997,deaths,Female,71,C90,Myeloma
+1999,deaths,AllSex,71,C53,Cervix
+1999,deaths,Female,71,C53,Cervix
+1999,deaths,Female,71,"C64-C66, C68",Kidney and other urinary
+2002,deaths,Female,71,"C64-C66, C68",Kidney and other urinary
+2004,deaths,AllSex,71,C53,Cervix
+2004,deaths,Female,71,C53,Cervix
+2006,deaths,Female,71,C90,Myeloma
+2014,regs,AllSex,70,C51,Vulva
+2014,regs,Female,70,C51,Vulva
+1999,deaths,Male,70,C00-C14,"Lip, Oral Cavity and Pharynx"
+2002,deaths,Female,70,C90,Myeloma
+2016,deaths,Female,70,C15,Oesophagus
+1996,regs,AllSex,69,C81,Hodgkin lymphoma
+1998,regs,AllSex,69,C81,Hodgkin lymphoma
+2004,deaths,AllSex,69,C54-C55,Uterus
+2004,deaths,Female,69,C54-C55,Uterus
+2012,deaths,Female,69,"C64-C66, C68",Kidney and other urinary
+2016,deaths,Female,69,C67,Bladder
+1996,regs,Female,68,C15,Oesophagus
+1996,deaths,Female,68,C15,Oesophagus
+1997,deaths,Female,68,C15,Oesophagus
+2005,deaths,Female,68,"C64-C66, C68",Kidney and other urinary
+2005,deaths,Female,68,C90,Myeloma
+2008,deaths,Female,68,C90,Myeloma
+2010,deaths,Female,68,"C64-C66, C68",Kidney and other urinary
+1997,regs,Female,67,C15,Oesophagus
+2012,regs,AllSex,67,C51,Vulva
+2012,regs,Female,67,C51,Vulva
+2012,regs,Male,67,C73,Thyroid
+1996,deaths,AllSex,67,C54-C55,Uterus
+1996,deaths,Female,67,C54-C55,Uterus
+1996,deaths,Female,67,C90,Myeloma
+2002,deaths,Female,67,C15,Oesophagus
+1999,regs,AllSex,66,C81,Hodgkin lymphoma
+2013,regs,Male,66,C81,Hodgkin lymphoma
+1996,deaths,Male,66,C22,Liver and intrahepatic bile ducts
+1997,deaths,Female,66,"C64-C66, C68",Kidney and other urinary
+1998,deaths,Female,66,"C64-C66, C68",Kidney and other urinary
+2000,deaths,AllSex,66,C53,Cervix
+2000,deaths,Female,66,C53,Cervix
+2001,deaths,Female,66,C90,Myeloma
+2004,deaths,Male,66,C00-C14,"Lip, Oral Cavity and Pharynx"
+2005,deaths,Female,66,C15,Oesophagus
+2008,deaths,Female,66,C22,Liver and intrahepatic bile ducts
+2008,deaths,Female,66,C67,Bladder
+2009,deaths,Female,66,"C64-C66, C68",Kidney and other urinary
+2009,deaths,Male,66,C90,Myeloma
+2012,deaths,Female,66,C15,Oesophagus
+2015,deaths,Female,66,C67,Bladder
+2008,regs,Male,65,C81,Hodgkin lymphoma
+2002,deaths,AllSex,65,C53,Cervix
+2002,deaths,Female,65,C53,Cervix
+2007,deaths,AllSex,65,C53,Cervix
+2007,deaths,Female,65,C53,Cervix
+2009,deaths,Female,65,C67,Bladder
+2015,deaths,Female,65,C90,Myeloma
+2007,regs,Male,64,C73,Thyroid
+2001,deaths,Female,64,C67,Bladder
+2005,deaths,Female,64,C67,Bladder
+2006,regs,Male,63,C73,Thyroid
+2001,deaths,AllSex,63,C53,Cervix
+2001,deaths,Female,63,C53,Cervix
+2003,deaths,Female,63,C90,Myeloma
+2010,deaths,Female,63,C22,Liver and intrahepatic bile ducts
+2007,regs,AllSex,62,C51,Vulva
+2007,regs,Female,62,C51,Vulva
+2004,deaths,Female,62,"C64-C66, C68",Kidney and other urinary
+1997,deaths,Male,61,C00-C14,"Lip, Oral Cavity and Pharynx"
+2000,regs,AllSex,60,C51,Vulva
+2000,regs,Female,60,C51,Vulva
+1997,deaths,AllSex,60,C54-C55,Uterus
+1997,deaths,Female,60,C54-C55,Uterus
+1999,deaths,Female,60,C90,Myeloma
+2000,deaths,Female,60,C15,Oesophagus
+2006,deaths,Female,60,"C64-C66, C68",Kidney and other urinary
+2012,deaths,Female,60,C90,Myeloma
+1997,regs,AllSex,59,C81,Hodgkin lymphoma
+2011,regs,Male,59,C81,Hodgkin lymphoma
+2013,regs,AllSex,59,C51,Vulva
+2013,regs,Female,59,C51,Vulva
+1996,deaths,Female,59,"C64-C66, C68",Kidney and other urinary
+1999,deaths,Female,59,C15,Oesophagus
+2002,deaths,Female,59,C22,Liver and intrahepatic bile ducts
+2007,deaths,Female,59,C22,Liver and intrahepatic bile ducts
+2008,deaths,AllSex,59,C53,Cervix
+2008,deaths,Female,59,C53,Cervix
+1998,regs,Female,58,C15,Oesophagus
+2005,regs,Male,58,C81,Hodgkin lymphoma
+1998,deaths,Female,58,C15,Oesophagus
+2003,deaths,AllSex,58,C53,Cervix
+2003,deaths,Female,58,C53,Cervix
+2009,deaths,Female,58,C90,Myeloma
+2001,regs,Female,57,C22,Liver and intrahepatic bile ducts
+2003,regs,Male,57,C73,Thyroid
+2009,regs,Male,57,C81,Hodgkin lymphoma
+2015,regs,Male,57,C81,Hodgkin lymphoma
+2016,regs,AllSex,57,C51,Vulva
+2016,regs,Female,57,C51,Vulva
+2003,regs,Female,56,C22,Liver and intrahepatic bile ducts
+2004,regs,Male,56,C73,Thyroid
+2016,regs,Male,56,C81,Hodgkin lymphoma
+2000,deaths,Female,56,C67,Bladder
+2000,deaths,Female,56,C90,Myeloma
+2002,deaths,Female,56,C67,Bladder
+2003,deaths,Female,56,C67,Bladder
+2004,deaths,Female,56,C22,Liver and intrahepatic bile ducts
+2004,deaths,Female,56,C67,Bladder
+2012,deaths,AllSex,56,C53,Cervix
+2012,deaths,Female,56,C53,Cervix
+1996,regs,Female,55,C22,Liver and intrahepatic bile ducts
+2002,regs,Female,55,C22,Liver and intrahepatic bile ducts
+2006,regs,AllSex,55,C51,Vulva
+2006,regs,Female,55,C51,Vulva
+2014,regs,Male,55,C81,Hodgkin lymphoma
+2016,deaths,AllSex,55,C53,Cervix
+2016,deaths,Female,55,C53,Cervix
+1999,regs,AllSex,54,C51,Vulva
+1999,regs,Female,54,C51,Vulva
+2010,regs,Male,54,C81,Hodgkin lymphoma
+1996,deaths,Male,54,C90,Myeloma
+1998,deaths,Male,54,C00-C14,"Lip, Oral Cavity and Pharynx"
+1999,deaths,Female,54,C67,Bladder
+2000,deaths,Female,54,"C64-C66, C68",Kidney and other urinary
+2005,deaths,AllSex,54,C53,Cervix
+2005,deaths,Female,54,C53,Cervix
+2013,deaths,AllSex,54,C53,Cervix
+2013,deaths,Female,54,C53,Cervix
+2013,deaths,Female,54,C67,Bladder
+2008,regs,AllSex,53,C51,Vulva
+2008,regs,Female,53,C51,Vulva
+1998,deaths,Female,53,C67,Bladder
+1999,deaths,Male,53,C50,Breast
+2001,deaths,Female,53,"C64-C66, C68",Kidney and other urinary
+2011,deaths,AllSex,53,C53,Cervix
+2011,deaths,Female,53,C53,Cervix
+2015,deaths,AllSex,53,C53,Cervix
+2015,deaths,Female,53,C53,Cervix
+1997,regs,Male,52,C73,Thyroid
+2000,regs,Female,52,C22,Liver and intrahepatic bile ducts
+2004,regs,AllSex,52,C51,Vulva
+2004,regs,Female,52,C51,Vulva
+2006,regs,Male,52,C81,Hodgkin lymphoma
+2006,deaths,AllSex,52,C53,Cervix
+2006,deaths,Female,52,C53,Cervix
+2010,deaths,AllSex,52,C53,Cervix
+2010,deaths,Female,52,C53,Cervix
+2014,deaths,Female,52,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,regs,Female,51,C22,Liver and intrahepatic bile ducts
+2005,regs,Male,51,C73,Thyroid
+2008,regs,Male,51,C73,Thyroid
+2009,regs,AllSex,51,C51,Vulva
+2009,regs,Female,51,C51,Vulva
+2013,regs,Female,51,C81,Hodgkin lymphoma
+2015,regs,AllSex,51,C51,Vulva
+2015,regs,Female,51,C51,Vulva
+2006,deaths,Female,51,C67,Bladder
+2007,deaths,Female,51,C67,Bladder
+2004,regs,Male,50,C81,Hodgkin lymphoma
+2014,regs,Female,50,C81,Hodgkin lymphoma
+2001,regs,Female,49,C81,Hodgkin lymphoma
+2003,regs,Male,49,C81,Hodgkin lymphoma
+2010,deaths,Female,49,C67,Bladder
+2013,deaths,Female,49,C00-C14,"Lip, Oral Cavity and Pharynx"
+2007,regs,Male,48,C81,Hodgkin lymphoma
+2011,regs,AllSex,48,C51,Vulva
+2011,regs,Female,48,C51,Vulva
+2012,regs,Male,48,C81,Hodgkin lymphoma
+2003,deaths,Female,48,C22,Liver and intrahepatic bile ducts
+2002,regs,Male,47,C81,Hodgkin lymphoma
+2010,regs,AllSex,47,C51,Vulva
+2010,regs,Female,47,C51,Vulva
+1997,deaths,Female,47,C67,Bladder
+2000,regs,Male,46,C73,Thyroid
+2009,regs,Female,46,C81,Hodgkin lymphoma
+2010,regs,Female,46,C81,Hodgkin lymphoma
+2011,deaths,Female,46,C00-C14,"Lip, Oral Cavity and Pharynx"
+2014,deaths,AllSex,46,C53,Cervix
+2014,deaths,Female,46,C53,Cervix
+2016,deaths,Female,46,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,regs,AllSex,45,C51,Vulva
+1996,regs,Female,45,C51,Vulva
+2015,regs,Female,45,C81,Hodgkin lymphoma
+2005,deaths,Female,45,C22,Liver and intrahepatic bile ducts
+2004,regs,Female,44,C22,Liver and intrahepatic bile ducts
+2008,regs,Female,44,C81,Hodgkin lymphoma
+1997,deaths,Female,44,C22,Liver and intrahepatic bile ducts
+1999,deaths,Female,44,C00-C14,"Lip, Oral Cavity and Pharynx"
+2000,deaths,Female,44,C22,Liver and intrahepatic bile ducts
+2001,deaths,Female,44,C22,Liver and intrahepatic bile ducts
+2009,deaths,AllSex,44,C53,Cervix
+2009,deaths,Female,44,C53,Cervix
+2015,deaths,Female,44,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,deaths,Male,43,C50,Breast
+2002,regs,Female,42,C81,Hodgkin lymphoma
+2012,regs,Female,42,C81,Hodgkin lymphoma
+2007,deaths,Female,42,C00-C14,"Lip, Oral Cavity and Pharynx"
+1998,regs,Male,41,C81,Hodgkin lymphoma
+2000,regs,Male,41,C81,Hodgkin lymphoma
+2011,regs,Female,41,C81,Hodgkin lymphoma
+2009,deaths,Female,41,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,deaths,Female,41,C00-C14,"Lip, Oral Cavity and Pharynx"
+2001,regs,AllSex,40,C51,Vulva
+2001,regs,Female,40,C51,Vulva
+2007,regs,Female,40,C81,Hodgkin lymphoma
+1998,deaths,Male,40,C50,Breast
+2002,deaths,Female,40,C00-C14,"Lip, Oral Cavity and Pharynx"
+1998,regs,Female,39,C22,Liver and intrahepatic bile ducts
+1999,regs,Female,39,C22,Liver and intrahepatic bile ducts
+2003,regs,AllSex,39,C51,Vulva
+2003,regs,Female,39,C51,Vulva
+2016,regs,Female,39,C81,Hodgkin lymphoma
+1996,deaths,Female,39,C22,Liver and intrahepatic bile ducts
+2003,deaths,Female,39,C00-C14,"Lip, Oral Cavity and Pharynx"
+2008,deaths,Female,39,C00-C14,"Lip, Oral Cavity and Pharynx"
+1998,regs,AllSex,38,C51,Vulva
+1998,regs,Female,38,C51,Vulva
+2002,regs,AllSex,38,C51,Vulva
+2002,regs,Female,38,C51,Vulva
+2005,deaths,Female,38,C00-C14,"Lip, Oral Cavity and Pharynx"
+2006,deaths,Female,38,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,regs,Male,37,C81,Hodgkin lymphoma
+1999,regs,Male,37,C81,Hodgkin lymphoma
+2001,regs,Male,37,C81,Hodgkin lymphoma
+2002,regs,Male,37,C73,Thyroid
+2005,regs,Female,37,C81,Hodgkin lymphoma
+1998,deaths,Female,37,C22,Liver and intrahepatic bile ducts
+2005,regs,AllSex,36,C51,Vulva
+2005,regs,Female,36,C51,Vulva
+1998,deaths,Female,36,C00-C14,"Lip, Oral Cavity and Pharynx"
+1999,deaths,Female,36,C22,Liver and intrahepatic bile ducts
+2000,deaths,Female,35,C00-C14,"Lip, Oral Cavity and Pharynx"
+2004,deaths,Female,35,C00-C14,"Lip, Oral Cavity and Pharynx"
+1996,regs,Male,34,C73,Thyroid
+1997,regs,AllSex,34,C51,Vulva
+1997,regs,Female,34,C51,Vulva
+1999,regs,Male,34,C73,Thyroid
+2000,regs,Female,34,C81,Hodgkin lymphoma
+2006,regs,Female,34,C81,Hodgkin lymphoma
+2006,deaths,AllSex,34,C73,Thyroid
+1998,regs,Male,33,C73,Thyroid
+2015,deaths,AllSex,33,C73,Thyroid
+1996,regs,Female,32,C81,Hodgkin lymphoma
+1997,regs,Male,32,C81,Hodgkin lymphoma
+2001,deaths,Female,32,C00-C14,"Lip, Oral Cavity and Pharynx"
+2011,deaths,AllSex,32,C73,Thyroid
+2001,regs,Male,31,C73,Thyroid
+2004,regs,Female,31,C81,Hodgkin lymphoma
+1997,deaths,Female,31,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,deaths,AllSex,30,C73,Thyroid
+1999,regs,Female,29,C81,Hodgkin lymphoma
+2012,regs,Male,29,C50,Breast
+2004,deaths,AllSex,29,C73,Thyroid
+1998,regs,Female,28,C81,Hodgkin lymphoma
+2014,deaths,AllSex,28,C73,Thyroid
+2016,deaths,AllSex,28,C73,Thyroid
+1997,regs,Female,27,C81,Hodgkin lymphoma
+2003,regs,Female,27,C81,Hodgkin lymphoma
+2011,regs,Male,27,C50,Breast
+2013,regs,Male,27,C50,Breast
+1996,deaths,Female,27,C00-C14,"Lip, Oral Cavity and Pharynx"
+1997,deaths,Male,27,C50,Breast
+2010,deaths,Female,26,C00-C14,"Lip, Oral Cavity and Pharynx"
+2012,deaths,AllSex,26,C81,Hodgkin lymphoma
+2010,deaths,AllSex,25,C73,Thyroid
+2013,deaths,AllSex,25,C81,Hodgkin lymphoma
+2015,regs,Male,23,C50,Breast
+2006,deaths,Female,23,C73,Thyroid
+2007,deaths,AllSex,23,C81,Hodgkin lymphoma
+2008,deaths,AllSex,23,C73,Thyroid
+2008,deaths,AllSex,23,C81,Hodgkin lymphoma
+2004,regs,Male,22,C50,Breast
+2008,regs,Male,22,C50,Breast
+2009,regs,Male,22,C50,Breast
+1996,deaths,AllSex,22,C73,Thyroid
+1997,deaths,AllSex,22,C81,Hodgkin lymphoma
+2013,deaths,AllSex,22,C73,Thyroid
+2005,regs,Male,21,C50,Breast
+2010,regs,Male,21,C50,Breast
+1999,deaths,AllSex,21,C73,Thyroid
+2003,deaths,AllSex,21,C73,Thyroid
+2005,deaths,AllSex,21,C73,Thyroid
+2009,deaths,AllSex,21,C73,Thyroid
+2010,deaths,Female,21,C73,Thyroid
+2014,regs,Male,20,C50,Breast
+2003,deaths,AllSex,20,C81,Hodgkin lymphoma
+2007,deaths,AllSex,20,C73,Thyroid
+2014,deaths,AllSex,20,C81,Hodgkin lymphoma
+2015,deaths,AllSex,20,C51,Vulva
+2015,deaths,Female,20,C51,Vulva
+2016,deaths,AllSex,20,C51,Vulva
+2016,deaths,Female,20,C51,Vulva
+1998,deaths,AllSex,19,C73,Thyroid
+2002,deaths,AllSex,19,C73,Thyroid
+2004,deaths,Female,19,C73,Thyroid
+2011,deaths,Female,19,C73,Thyroid
+2014,deaths,AllSex,19,C51,Vulva
+2014,deaths,Female,19,C51,Vulva
+2014,deaths,Female,19,C73,Thyroid
+1999,regs,Male,18,C50,Breast
+2006,deaths,AllSex,18,C81,Hodgkin lymphoma
+2007,deaths,Male,18,C81,Hodgkin lymphoma
+2009,deaths,AllSex,18,C81,Hodgkin lymphoma
+2011,deaths,AllSex,18,C51,Vulva
+2011,deaths,Female,18,C51,Vulva
+2012,deaths,Female,18,C73,Thyroid
+2013,deaths,Male,18,C81,Hodgkin lymphoma
+2015,deaths,Male,18,C73,Thyroid
+2001,regs,Male,17,C50,Breast
+2000,deaths,AllSex,17,C73,Thyroid
+2005,deaths,AllSex,17,C81,Hodgkin lymphoma
+2002,regs,Male,16,C50,Breast
+2006,regs,Male,16,C50,Breast
+2016,regs,Male,16,C50,Breast
+1997,deaths,AllSex,16,C73,Thyroid
+2010,deaths,AllSex,16,C81,Hodgkin lymphoma
+2011,deaths,AllSex,16,C81,Hodgkin lymphoma
+2012,deaths,Female,16,C81,Hodgkin lymphoma
+2013,deaths,AllSex,16,C51,Vulva
+2013,deaths,Female,16,C51,Vulva
+2015,deaths,AllSex,16,C81,Hodgkin lymphoma
+2016,deaths,Female,16,C73,Thyroid
+1996,deaths,Female,15,C73,Thyroid
+1999,deaths,AllSex,15,C81,Hodgkin lymphoma
+2002,deaths,AllSex,15,C81,Hodgkin lymphoma
+2004,deaths,AllSex,15,C81,Hodgkin lymphoma
+2007,deaths,AllSex,15,C51,Vulva
+2007,deaths,Female,15,C51,Vulva
+2008,deaths,AllSex,15,C51,Vulva
+2008,deaths,Female,15,C51,Vulva
+2009,deaths,AllSex,15,C51,Vulva
+2009,deaths,Female,15,C51,Vulva
+2009,deaths,Female,15,C73,Thyroid
+2015,deaths,Female,15,C73,Thyroid
+1996,deaths,AllSex,14,C51,Vulva
+1996,deaths,Female,14,C51,Vulva
+1998,deaths,AllSex,14,C81,Hodgkin lymphoma
+1998,deaths,Female,14,C73,Thyroid
+2001,deaths,AllSex,14,C73,Thyroid
+2003,deaths,AllSex,14,C62,Testis
+2003,deaths,Male,14,C62,Testis
+2005,deaths,AllSex,14,C51,Vulva
+2005,deaths,Female,14,C51,Vulva
+2005,deaths,Female,14,C73,Thyroid
+2007,deaths,Female,14,C73,Thyroid
+2010,deaths,AllSex,14,C51,Vulva
+2010,deaths,Female,14,C51,Vulva
+2012,deaths,AllSex,14,C51,Vulva
+2012,deaths,Female,14,C51,Vulva
+2003,regs,Male,13,C50,Breast
+1999,deaths,AllSex,13,C51,Vulva
+1999,deaths,Female,13,C51,Vulva
+2000,deaths,AllSex,13,C51,Vulva
+2000,deaths,Female,13,C51,Vulva
+2001,deaths,AllSex,13,C81,Hodgkin lymphoma
+2002,deaths,Female,13,C73,Thyroid
+2003,deaths,Female,13,C73,Thyroid
+2004,deaths,AllSex,13,C51,Vulva
+2004,deaths,Female,13,C51,Vulva
+2006,deaths,AllSex,13,C51,Vulva
+2006,deaths,Female,13,C51,Vulva
+2008,deaths,Male,13,C73,Thyroid
+2011,deaths,Male,13,C73,Thyroid
+1996,regs,Male,12,C50,Breast
+1998,regs,Male,12,C50,Breast
+2000,regs,Male,12,C50,Breast
+1997,deaths,Male,12,C81,Hodgkin lymphoma
+1999,deaths,Female,12,C73,Thyroid
+2001,deaths,AllSex,12,C51,Vulva
+2001,deaths,Female,12,C51,Vulva
+2002,deaths,AllSex,12,C51,Vulva
+2002,deaths,Female,12,C51,Vulva
+2003,deaths,Male,12,C81,Hodgkin lymphoma
+2008,deaths,Male,12,C81,Hodgkin lymphoma
+2009,deaths,Male,12,C81,Hodgkin lymphoma
+2012,deaths,Male,12,C73,Thyroid
+2016,deaths,Male,12,C73,Thyroid
+1997,regs,Male,11,C50,Breast
+1996,deaths,AllSex,11,C81,Hodgkin lymphoma
+1997,deaths,Female,11,C73,Thyroid
+2000,deaths,Female,11,C73,Thyroid
+2001,deaths,AllSex,11,C62,Testis
+2001,deaths,Male,11,C62,Testis
+2005,deaths,Male,11,C81,Hodgkin lymphoma
+2006,deaths,Male,11,C73,Thyroid
+2006,deaths,Male,11,C81,Hodgkin lymphoma
+2008,deaths,Female,11,C81,Hodgkin lymphoma
+2013,deaths,Female,11,C73,Thyroid
+2013,deaths,Male,11,C73,Thyroid
+2007,regs,Male,10,C50,Breast
+1997,deaths,AllSex,10,C51,Vulva
+1997,deaths,Female,10,C51,Vulva
+1997,deaths,Female,10,C81,Hodgkin lymphoma
+1998,deaths,AllSex,10,C51,Vulva
+1998,deaths,Female,10,C51,Vulva
+1999,deaths,AllSex,10,C62,Testis
+1999,deaths,Male,10,C62,Testis
+2004,deaths,Male,10,C73,Thyroid
+2005,deaths,AllSex,10,C62,Testis
+2005,deaths,Male,10,C62,Testis
+2008,deaths,Female,10,C73,Thyroid
+2010,deaths,AllSex,10,C62,Testis
+2010,deaths,Male,10,C62,Testis
+2012,deaths,Male,10,C81,Hodgkin lymphoma
+2014,deaths,Female,10,C81,Hodgkin lymphoma
+2014,deaths,Male,10,C81,Hodgkin lymphoma
+2015,deaths,AllSex,10,C62,Testis
+2015,deaths,Male,10,C62,Testis
+2016,deaths,AllSex,10,C81,Hodgkin lymphoma
+1998,deaths,Male,9,C81,Hodgkin lymphoma
+1999,deaths,Male,9,C73,Thyroid
+1999,deaths,Male,9,C81,Hodgkin lymphoma
+2001,deaths,Male,9,C81,Hodgkin lymphoma
+2002,deaths,AllSex,9,C62,Testis
+2002,deaths,Male,9,C62,Testis
+2003,deaths,AllSex,9,C51,Vulva
+2003,deaths,Female,9,C51,Vulva
+2004,deaths,Male,9,C81,Hodgkin lymphoma
+2007,deaths,AllSex,9,C62,Testis
+2007,deaths,Male,9,C62,Testis
+2011,deaths,Male,9,C81,Hodgkin lymphoma
+2014,deaths,Male,9,C73,Thyroid
+2015,deaths,Male,9,C81,Hodgkin lymphoma
+2000,deaths,AllSex,8,C81,Hodgkin lymphoma
+2002,deaths,Female,8,C81,Hodgkin lymphoma
+2003,deaths,Female,8,C81,Hodgkin lymphoma
+2003,deaths,Male,8,C73,Thyroid
+2010,deaths,Female,8,C81,Hodgkin lymphoma
+2010,deaths,Male,8,C81,Hodgkin lymphoma
+2013,deaths,Male,8,C50,Breast
+1996,deaths,Male,7,C73,Thyroid
+1996,deaths,Male,7,C81,Hodgkin lymphoma
+2000,deaths,AllSex,7,C62,Testis
+2000,deaths,Male,7,C62,Testis
+2001,deaths,Female,7,C73,Thyroid
+2001,deaths,Male,7,C73,Thyroid
+2002,deaths,Male,7,C81,Hodgkin lymphoma
+2005,deaths,Male,7,C73,Thyroid
+2006,deaths,Female,7,C81,Hodgkin lymphoma
+2008,deaths,AllSex,7,C62,Testis
+2008,deaths,Male,7,C62,Testis
+2009,deaths,Male,7,C50,Breast
+2011,deaths,Female,7,C81,Hodgkin lymphoma
+2012,deaths,AllSex,7,C62,Testis
+2012,deaths,Male,7,C62,Testis
+2013,deaths,Female,7,C81,Hodgkin lymphoma
+2015,deaths,Female,7,C81,Hodgkin lymphoma
+2016,deaths,AllSex,7,C62,Testis
+2016,deaths,Male,7,C62,Testis
+2016,deaths,Male,7,C81,Hodgkin lymphoma
+1999,deaths,Female,6,C81,Hodgkin lymphoma
+2000,deaths,Male,6,C73,Thyroid
+2002,deaths,Male,6,C73,Thyroid
+2004,deaths,Female,6,C81,Hodgkin lymphoma
+2005,deaths,Female,6,C81,Hodgkin lymphoma
+2007,deaths,Male,6,C73,Thyroid
+2008,deaths,Male,6,C50,Breast
+2009,deaths,Female,6,C81,Hodgkin lymphoma
+2009,deaths,Male,6,C73,Thyroid
+2013,deaths,AllSex,6,C62,Testis
+2013,deaths,Male,6,C62,Testis
+2014,deaths,Male,6,C50,Breast
+2016,deaths,Male,6,C50,Breast
+1996,deaths,AllSex,5,C62,Testis
+1996,deaths,Male,5,C62,Testis
+1997,deaths,Male,5,C73,Thyroid
+1998,deaths,AllSex,5,C62,Testis
+1998,deaths,Female,5,C81,Hodgkin lymphoma
+1998,deaths,Male,5,C62,Testis
+1998,deaths,Male,5,C73,Thyroid
+2000,deaths,Male,5,C81,Hodgkin lymphoma
+2003,deaths,Male,5,C50,Breast
+2004,deaths,AllSex,5,C62,Testis
+2004,deaths,Male,5,C62,Testis
+2005,deaths,Male,5,C50,Breast
+2007,deaths,Female,5,C81,Hodgkin lymphoma
+2007,deaths,Male,5,C50,Breast
+2011,deaths,Male,5,C50,Breast
+2014,deaths,AllSex,5,C62,Testis
+2014,deaths,Male,5,C62,Testis
+2015,deaths,Male,5,C50,Breast
+1996,deaths,Female,4,C81,Hodgkin lymphoma
+2001,deaths,Female,4,C81,Hodgkin lymphoma
+2004,deaths,Male,4,C50,Breast
+2006,deaths,AllSex,4,C62,Testis
+2006,deaths,Male,4,C62,Testis
+2009,deaths,AllSex,4,C62,Testis
+2009,deaths,Male,4,C62,Testis
+2010,deaths,Male,4,C73,Thyroid
+1997,deaths,AllSex,3,C62,Testis
+1997,deaths,Male,3,C62,Testis
+2000,deaths,Female,3,C81,Hodgkin lymphoma
+2006,deaths,Male,3,C50,Breast
+2010,deaths,Male,3,C50,Breast
+2016,deaths,Female,3,C81,Hodgkin lymphoma
+2000,deaths,Male,2,C50,Breast
+2001,deaths,Male,2,C50,Breast
+2002,deaths,Male,1,C50,Breast
+2011,deaths,AllSex,1,C62,Testis
+2011,deaths,Male,1,C62,Testis
+2012,deaths,Male,1,C50,Breast
