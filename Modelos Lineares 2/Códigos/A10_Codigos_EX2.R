@@ -1,9 +1,9 @@
 ## Modelos Lineares II
-## 15/06/2023
+## 15/10/2025
 
-## 1. ComparaÁ„o de modelos
+## 1. Compara√ß√£o de modelos
 ## 2. Regressao logistica Geral
-## 3. MÈtodos de regularizaÁ„o (LASSO)
+## 3. M√©todos de regulariza√ß√£o (LASSO)
 
 
 library(mlbench)
@@ -49,9 +49,9 @@ legend("bottomright",legend=c("logito","probito","cloglog"),col=c("blue","green"
 
 # claramente o modelo loglog complementar tem o pior ajuste.
 
-# Avaliando medidas de comparaÁ„o de modelos:
+# Avaliando medidas de compara√ß√£o de modelos:
 
-# estimando o modelo nulo para calcular o pseudo R≤
+# estimando o modelo nulo para calcular o pseudo R¬≤
 fit.nulo <- glm(cbind(y,m-y)~1, family=binomial(link="logit"))
 summary(fit.nulo)
 
@@ -61,15 +61,15 @@ deviance <- c(deviance(fit1),deviance(fit2),deviance(fit3))
 AIC <- c(fit1$aic,fit2$aic,fit3$aic)
 pR2 <- round(c(1-(logLik(fit1)/logLik(fit.nulo)), 1-(logLik(fit2)/logLik(fit.nulo)), 1-(logLik(fit3)/logLik(fit.nulo))),3)
 
-R <- data.frame(Modelo,AIC,Deviance=deviance,"pseudo R≤"= pR2)
+R <- data.frame(Modelo,AIC,Deviance=deviance,"pseudo R¬≤"= pR2)
 R
 
 
 # Como visto no grafico, o modelo clolog tem o pior ajuste. Ele apresentou o maior AIC, a maior
-# deviance e o menor pseudo R≤.
+# deviance e o menor pseudo R¬≤.
 # Os modelos Probito e Logito apresentam, graficamente, ajustes muito parecidos. Entretanto, o modelo
-# logito teve leve vantagem. Seu AIC È um pouco menor do que o AIC do probito, sua deviance tambÈm e
-# o pseudo R≤ È praticamente o mesmo.
+# logito teve leve vantagem. Seu AIC √© um pouco menor do que o AIC do probito, sua deviance tamb√©m e
+# o pseudo R¬≤ √© praticamente o mesmo.
 # Logo, escolhemos o modelo logito como o que melhor se ajusta ao conjunto de dados.
 
 
@@ -82,17 +82,17 @@ R
 ##################################################################
 ##################################################################
 
-# base heart disease.xlsx contem informaÁoes de 4170 pacientes 
-# de um hospital da FlÛrida. O objetivo È avaliar a probabilidade 
-# de ocorrencia da doenÁa arterial coronariana nos pacientes desse 
+# base heart disease.xlsx contem informa√ßoes de 4170 pacientes 
+# de um hospital da Fl√≥rida. O objetivo √© avaliar a probabilidade 
+# de ocorrencia da doen√ßa arterial coronariana nos pacientes desse 
 # hospital a partir de suas caracteristicas.
 
-# male: indica se o paciente È do sexo masculino (1-masculino; 0-feminino);
+# male: indica se o paciente √© do sexo masculino (1-masculino; 0-feminino);
 # age: idade do paciente (em anos);
-# smoker: indica se o paciente È fumante (1-fumante; 0-caso contrario);
-# diabetes: indica se o paciente tem diabetes (1-diabÈtico; 0-caso contrario);
+# smoker: indica se o paciente √© fumante (1-fumante; 0-caso contrario);
+# diabetes: indica se o paciente tem diabetes (1-diab√©tico; 0-caso contrario);
 # BMI: indice de massa corporal;
-# CHD: indica se o paciente tem doenÁa arterial coronariana.
+# CHD: indica se o paciente tem doen√ßa arterial coronariana.
 
 # Lendo a base de dados
 base <- read_excel("heart_disease.xlsx")
@@ -106,13 +106,13 @@ fit <- glm(CHD ~ male +
                  family=binomial(link = "logit"), data = base)
 
 
-# Avaliando o ajuste (signific‚ncia das vari·veis, deviance e AIC)
+# Avaliando o ajuste (signific√¢ncia das vari√°veis, deviance e AIC)
 summary(fit)
 
 # Avaliando a adequabilidade do modelo a partir da ANOVA
 anova(fit,test = "Chisq")
 
-# Calculuando RC e seu intervalo de confianÁa de 95%
+# Calculuando RC e seu intervalo de confian√ßa de 95%
 exp(cbind(OR = coef(fit), confint(fit, level=0.95)))
 
 ############################################################################
@@ -120,8 +120,8 @@ exp(cbind(OR = coef(fit), confint(fit, level=0.95)))
 
 
 
-## Objetivo: prever a probabilidade de ser diabÈtico a partir de diversas 
-## vari·veis clÌnicas.
+## Objetivo: prever a probabilidade de ser diab√©tico a partir de diversas 
+## vari√°veis cl√≠nicas.
 
 data("PimaIndiansDiabetes2", package = "mlbench")
 dados <- na.omit(PimaIndiansDiabetes2)
@@ -130,17 +130,17 @@ dados <- na.omit(PimaIndiansDiabetes2)
 head(dados, 3)
 dim(dados)
 
-#pregnant - N˙mero de vezes que engravidou
-#glucose - ConcentraÁ„o de glicose no plasma (teste de toler‚ncia ‡ glicose)
-#pressure - press„o arterial diastÛlica (mm Hg)
-#triceps - Espessura da dobra cut‚nea do trÌceps (mm)
-#insulin - insulina sÈrica de 2 horas (mu U / ml)
-#mass - Õndice de massa corporal (peso em kg / (altura em m) \ ^ 2)
-#pedigree - Diabetes Pedigree Function (valores que medem a tendÍncia 
-#           ao desenvolvimento de diabetes com base nas relaÁıes genÈticas 
-#           do indivÌduo)
+#pregnant - N√∫mero de vezes que engravidou
+#glucose - Concentra√ß√£o de glicose no plasma (teste de toler√¢ncia √† glicose)
+#pressure - press√£o arterial diast√≥lica (mm Hg)
+#triceps - Espessura da dobra cut√¢nea do tr√≠ceps (mm)
+#insulin - insulina s√©rica de 2 horas (mu U / ml)
+#mass - √çndice de massa corporal (peso em kg / (altura em m) \ ^ 2)
+#pedigree - Diabetes Pedigree Function (valores que medem a tend√™ncia 
+#           ao desenvolvimento de diabetes com base nas rela√ß√µes gen√©ticas 
+#           do indiv√≠duo)
 #age - Idade (anos)
-#diabetes - Vari·vel de classe de diabetes (teste para diabetes)
+#diabetes - Vari√°vel de classe de diabetes (teste para diabetes)
 
 
 
@@ -156,10 +156,10 @@ train.data <- dados[amostras.treino, ]
 test.data <- dados[-amostras.treino, ]
 
 
-# Organizando os dados (essa funÁ„o j· coloca vari·veis categÛricas como dummies)
+# Organizando os dados (essa fun√ß√£o j√° coloca vari√°veis categ√≥ricas como dummies)
 x <- model.matrix(diabetes~., train.data)[,-1]
 
-# Transformando as categorias de y em classes numÈricas
+# Transformando as categorias de y em classes num√©ricas
 y <- ifelse(train.data$diabetes == "pos", 1, 0)
 
 # Encontrando o melhor lambda via cross-validation
@@ -171,8 +171,8 @@ plot(cv.lasso)
 cv.lasso$lambda.min          # lambda que minimiza a deviance
 #log(cv.lasso$lambda.min)  
 
-# A funÁ„o cv.glmnet() tambÈm encontra o valor de lambda que fornece um modelo 
-# mais simples, mas que est· dentro de um erro padr„o do valor ideal de lambda.
+# A fun√ß√£o cv.glmnet() tamb√©m encontra o valor de lambda que fornece um modelo 
+# mais simples, mas que est√° dentro de um erro padr√£o do valor ideal de lambda.
 
 cv.lasso$lambda.1se
 #log(cv.lasso$lambda.1se)
@@ -182,7 +182,7 @@ coef(cv.lasso, cv.lasso$lambda.min)
 coef(cv.lasso, cv.lasso$lambda.1se)
 
 
-## Comparando a acur·cia dos modelos
+## Comparando a acur√°cia dos modelos
 
 ## Modelo com lambda.min
 modelo.1 <- glmnet(x,y, alpha = 1, family = "binomial",lambda = cv.lasso$lambda.min)
@@ -197,12 +197,12 @@ AIC.1
 #abline(v=log(cv.lasso$lambda.1se))
 
 
-# Fazendo a previs„o para o dado de teste
+# Fazendo a previs√£o para o dado de teste
 x.test <- model.matrix(diabetes ~., test.data)[,-1]
 prob1 <- exp(modelo.1 %>% predict(newx = x.test))/(1+exp(modelo.1 %>% predict(newx = x.test)))
 pred.classes1 <- ifelse(prob1 > 0.5, "pos", "neg")
 
-# Acur·cia do modelo
+# Acur√°cia do modelo
 obs.classes <- test.data$diabetes
 ac.1 <- mean(pred.classes1 == obs.classes)
 ac.1
@@ -215,11 +215,11 @@ coef(modelo.2)
 AIC.2 <- sAIC(x=x, y=y, beta=coef(modelo.2), family="binomial")
 AIC.2
 
-# Fazendo a previs„o para o dado de teste
+# Fazendo a previs√£o para o dado de teste
 prob2 <- exp(modelo.2 %>% predict(newx = x.test))/(1+exp(modelo.2 %>% predict(newx = x.test)))
 pred.classes2 <- ifelse(prob2 > 0.5, "pos", "neg")
 
-# Acur·cia do modelo
+# Acur√°cia do modelo
 ac.2 <- mean(pred.classes2 == obs.classes)
 ac.2
 
@@ -230,11 +230,11 @@ summary(modelo.3)
 
 AIC.3 <- modelo.3$aic
 
-# Fazendo a previs„o para o dado de teste
+# Fazendo a previs√£o para o dado de teste
 prob3 <- modelo.3 %>% predict(test.data, type = "response")
 pred.classes3 <- ifelse(prob3 > 0.5, "pos", "neg")
 
-# Acur·cia do modelo
+# Acur√°cia do modelo
 ac.3 <- mean(pred.classes3 == obs.classes)
 ac.3
 
@@ -245,11 +245,11 @@ summary(modelo.4)
 
 AIC.4 <- modelo.4$aic
 
-# Fazendo a previs„o para o dado de teste
+# Fazendo a previs√£o para o dado de teste
 prob4 <- modelo.4 %>% predict(test.data, type = "response")
 pred.classes4 <- ifelse(prob4 > 0.5, "pos", "neg")
 
-# Acur·cia do modelo
+# Acur√°cia do modelo
 ac.4 <- mean(pred.classes4 == obs.classes)
 ac.4
 
@@ -260,11 +260,11 @@ summary(modelo.5)
 
 AIC.5 <- modelo.5$aic
 
-# Fazendo a previs„o para o dado de teste
+# Fazendo a previs√£o para o dado de teste
 prob5 <- modelo.5 %>% predict(test.data, type = "response")
 pred.classes5 <- ifelse(prob5 > 0.5, "pos", "neg")
 
-# Acur·cia do modelo
+# Acur√°cia do modelo
 ac.5 <- mean(pred.classes5 == obs.classes)
 ac.5
 
@@ -288,3 +288,4 @@ deviance <- c(deviance(modelo.1),deviance(modelo.2),deviance(modelo.3),deviance(
 AIC <- c(AIC.1$AIC,AIC.2$AIC,AIC.3,AIC.4,AIC.5)
 R <- data.frame(Modelo,AIC,deviance,Acuracia)
 R
+
